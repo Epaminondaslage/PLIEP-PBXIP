@@ -36,7 +36,16 @@ A principal vantagem do VoIP é a economia de custos em comparação com as cham
 Para usar o VoIP, você precisa de um serviço VoIP, o WhatsApp por exemplo ou um dispositivo compatível, como um computador, smartphone, tablet ou telefone IP. A voz é convertida em pacotes de dados digitais e transmitida pela Internet para o destinatário, onde é convertida de volta em áudio. Essa tecnologia tornou-se amplamente popular para chamadas de longa distância, videoconferências, chamadas internacionais e comunicações pessoais ou empresariais devido à sua eficiência e custos reduzidos.
 
 # O Asterisk
-
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/Asterisk_logo.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 2 - Software de PBX IP ASTERISK.</td>
+</tr>
+</tbody>
+</table>
 O Asterisk é um software de código aberto que desempenha um papel fundamental na implementação de sistemas de telecomunicações baseados em VoIP (Voz sobre Protocolo de Internet) e comunicações unificadas. Ele foi originalmente desenvolvido por Mark Spencer e lançado em 1999 como um projeto de código aberto. Desde então, tornou-se uma das plataformas mais populares e versáteis para a construção de sistemas de PBX e mensagens unificadas.
 
 ## Caracteristicas básicas do Asterisk:
@@ -52,7 +61,16 @@ O Asterisk é amplamente utilizado por empresas de todos os tamanhos para implem
 # O ISSABEL
 
 Issabel é uma plataforma de comunicações empresariais de código aberto baseada no software Asterisk. Ela fornece um conjunto abrangente de recursos para empresas que desejam implementar sistemas de telecomunicações avançados, como PBX (Private Branch Exchange), serviços de telefonia IP (VoIP) e comunicações unificadas. Issabel é conhecido por ser uma distribuição do Asterisk que facilita a configuração e a gestão de sistemas de comunicação.
-
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/issabel.jpg" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 3 - Plataforma de Comunicação Issabel.</td>
+</tr>
+</tbody>
+</table>
 ## Características básicas do Issabel:
 
  * Baseado no Asterisk: Issabel usa o Asterisk como núcleo de comunicação. Ele inclui todas as capacidades do Asterisk, permitindo que as empresas configurem uma ampla gama de serviços de telefonia e comunicações.
@@ -60,6 +78,17 @@ Issabel é uma plataforma de comunicações empresariais de código aberto basea
  * Recursos Avançados: O Issabel oferece recursos avançados, como roteamento de chamadas, correio de voz, videoconferência, IVR (Interactive Voice Response), relatórios detalhados, autenticação de chamadas e muito mais. Isso o torna uma solução completa para as necessidades de comunicação de uma empresa.
  * Comunicações Unificadas: Além das funcionalidades telefônicas tradicionais, o Issabel pode ser integrado a outras ferramentas de comunicação, como e-mail e mensagens instantâneas, para criar sistemas de comunicações unificadas que consolidam diferentes formas de comunicação.
  * Código Aberto: Assim como o Asterisk, o Issabel é uma solução de código aberto, o que significa que é possível personalizá-lo e adaptá-lo às necessidades específicas da empresa. Isso também contribui para a economia de custos, pois não requer a compra de licenças de software.
+
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/painel issabel.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 4 - Dashboard do Issabel.</td>
+</tr>
+</tbody>
+</table>
 
 O Issabel é uma escolha popular para empresas que desejam implementar sistemas de comunicações avançados, especialmente aquelas que procuram uma solução baseada em Asterisk com uma interface de gerenciamento amigável. Ele oferece um conjunto de recursos abrangente e pode ser personalizado de acordo com as necessidades específicas de cada organização.
 
