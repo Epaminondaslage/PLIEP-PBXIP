@@ -19,6 +19,16 @@ PBXIP utiliza a automação e a tecnologia IP para otimizar a gestão das chamad
 
 # O que é VOIP?
 
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/img/VOIP.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 1 - VOIP"-Voz sobre Protocolo de Internet".</td>
+</tr>
+</tbody>
+</table>
 VoIP é a sigla para "Voz sobre Protocolo de Internet" (Voice over Internet Protocol, em inglês). Trata-se de uma tecnologia que permite a transmissão de voz e outros tipos de comunicação de áudio e vídeo pela Internet, em vez de usar circuitos telefônicos tradicionais. Em outras palavras, o VoIP permite fazer chamadas telefônicas e conduzir videoconferências usando a infraestrutura de rede da Internet.
 
 A principal vantagem do VoIP é a economia de custos em comparação com as chamadas telefônicas tradicionais, pois utiliza a infraestrutura de Internet já existente. Além disso, o VoIP oferece recursos avançados, como encaminhamento de chamadas, correio de voz, conferências e a capacidade de integrar facilmente a comunicação com outros aplicativos e serviços online.
