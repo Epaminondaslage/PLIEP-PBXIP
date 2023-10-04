@@ -165,7 +165,7 @@ Lembrando que a ordem dos fios (T568B ou T568A) deve ser consistente em ambos os
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/rj45.jpg" width="60%" /></td>
+<td style="width: 50%;"><img src="./img/rj45.jpg" width="80%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 8 - Ordem dos fios padrão T568B e T568A .</td>
