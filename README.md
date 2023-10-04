@@ -22,10 +22,10 @@ PBXIP utiliza a automação e a tecnologia IP para otimizar a gestão das chamad
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/img/VOIP.png" width="50%" /></td>
+<td style="width: 50%;"><img src="/img/voip.jpg" width="50%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 1 - VOIP"-Voz sobre Protocolo de Internet".</td>
+<td style="text-align: center;">Figura 1 - VOIP-"Voz sobre Protocolo de Internet".</td>
 </tr>
 </tbody>
 </table>
