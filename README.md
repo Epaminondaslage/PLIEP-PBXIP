@@ -71,6 +71,7 @@ Issabel é uma plataforma de comunicações empresariais de código aberto basea
 </tr>
 </tbody>
 </table>
+
 ## Características básicas do Issabel:
 
  * Baseado no Asterisk: Issabel usa o Asterisk como núcleo de comunicação. Ele inclui todas as capacidades do Asterisk, permitindo que as empresas configurem uma ampla gama de serviços de telefonia e comunicações.
@@ -123,35 +124,28 @@ O Issabel é uma escolha popular para empresas que desejam implementar sistemas 
 É um processo importante para criar cabos de rede Ethernet. A crimpagem envolve a fixação dos fios dentro do conector de forma que eles estejam devidamente alinhados e conectados aos pinos internos.
 
 ## Materiais Necessários:
-
-    * Cabo de rede (geralmente U/FTP, U/UTP, FTP ou STP, com 4 pares de fios)
-    * Conectores RJ-45
-    * Alicate de crimpagem RJ-45
-    * Ferramenta de decapagem de cabos ou um estilete
-    * Ferramenta de corte 
-    * Diagrama de pinagem (para garantir que os fios estejam na ordem correta)
+ * Cabo de rede (geralmente U/FTP, U/UTP, FTP ou STP, com 4 pares de fios)
+ * Conectores RJ-45
+ * Ferramenta de decapagem de cabos ou um estilete
+ * Ferramenta de corte
+ * Diagrama de pinagem (para garantir que os fios estejam na ordem correta)
 
 ## Passos:
 
-    * Preparação dos Fios:
+   * Preparação dos Fios:
         Decape cerca de 2-3 cm da capa externa do cabo usando uma ferramenta de decapagem ou um estilete. Certifique-se de não danificar os fios internos.
         Organize os pares de fios na ordem correta. A ordem geralmente é T568B ou T568A, dependendo da configuração da rede. Certifique-se de usar a mesma ordem nos dois lados do cabo (conector RJ-45).
-
-    * Corte os Fios Excedentes (Opcional):
+   * Corte os Fios Excedentes (Opcional):
         Se os fios internos estiverem muito compridos, você pode cortar o excesso com uma ferramenta de corte para que fiquem aproximadamente alinhados com a parte traseira do conector RJ-45.
-
-    * Inserção dos Fios no Conector:
-        Insira os fios na ordem correta nos pinos do conector RJ-45. Certifique-se de que os fios estejam bem encaixados nos pinos.
-
-    * Crimpagem:
+   * Inserção dos Fios no Conector:
+       Insira os fios na ordem correta nos pinos do conector RJ-45. Certifique-se de que os fios estejam bem encaixados nos pinos.
+   * Crimpagem:
         Insira o conector RJ-45 com os fios no alicate de crimpagem RJ-45.
         Aperte o alicate com firmeza e certifique-se de que ele esteja completamente fechado. Isso fará com que os contatos metálicos no conector pressionem os fios com força, criando uma conexão sólida.
-
-    * Verificação:
+   * Verificação:
         Após a crimpagem, verifique visualmente se os fios estão corretamente alinhados e conectados aos pinos.
         Use um verificador de cabo ou um testador de cabo para verificar se a conexão está funcionando corretamente. Isso é especialmente importante para garantir que não haja fios cruzados ou mal conectados.
-
-    * epetição do Processo:
+    * Repetição do Processo:
         Repita o mesmo processo no outro lado do cabo, garantindo que a ordem dos fios seja a mesma que você usou no primeiro conector RJ-45.
 
 Lembrando que a ordem dos fios (T568B ou T568A) deve ser consistente em ambos os conectores RJ-45 para que o cabo funcione corretamente em sua rede Ethernet. Além disso, use cabos de boa qualidade e certifique-se de que as ferramentas estejam em boas condições para obter resultados confiáveis.
