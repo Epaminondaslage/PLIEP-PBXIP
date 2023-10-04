@@ -169,4 +169,19 @@ Lembrando que a ordem dos fios (T568B ou T568A) deve ser consistente em ambos os
 
 Dois padrões de T568A e T568B podem ser usados ​​para conectar cabos Ethernet Cat5e e Cat6. A única diferença entre o T568A e o T568B é que as posições dos fios da faixa verde / verde e laranja / laranja são trocadas.
 
+## Conectar os cabos entre os telefones IP e o Switch
+
+
+
+
+## Configurar os aparenhos telefonicos IP
+
+
+
+## Baixar o app softfone no celular e configurá-lo
+
+
+## Realizar os testes do PBX
+
+
 
