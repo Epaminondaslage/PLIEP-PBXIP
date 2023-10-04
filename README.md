@@ -132,6 +132,18 @@ O Issabel é uma escolha popular para empresas que desejam implementar sistemas 
 
 ## Passos:
 
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/Conector.png" width="60%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 7 - Ordem dos fios padrão T568B no conector RJ-45.</td>
+</tr>
+</tbody>
+</table>
+
+
    * Preparação dos Fios:
         Decape cerca de 2-3 cm da capa externa do cabo usando uma ferramenta de decapagem ou um estilete. Certifique-se de não danificar os fios internos.
         Organize os pares de fios na ordem correta. A ordem geralmente é T568B ou T568A, dependendo da configuração da rede. Certifique-se de usar a mesma ordem nos dois lados do cabo (conector RJ-45).
@@ -156,7 +168,7 @@ Lembrando que a ordem dos fios (T568B ou T568A) deve ser consistente em ambos os
 <td style="width: 50%;"><img src="./img/rj45.jpg" width="60%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 7 - Ordem dos fios padrão T568B e T568A .</td>
+<td style="text-align: center;">Figura 8 - Ordem dos fios padrão T568B e T568A .</td>
 </tr>
 </tbody>
 </table>
