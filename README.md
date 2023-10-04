@@ -151,7 +151,7 @@ O Issabel é uma escolha popular para empresas que desejam implementar sistemas 
         Após a crimpagem, verifique visualmente se os fios estão corretamente alinhados e conectados aos pinos.
         Use um verificador de cabo ou um testador de cabo para verificar se a conexão está funcionando corretamente. Isso é especialmente importante para garantir que não haja fios cruzados ou mal conectados.
 
-    R* epetição do Processo:
+    * epetição do Processo:
         Repita o mesmo processo no outro lado do cabo, garantindo que a ordem dos fios seja a mesma que você usou no primeiro conector RJ-45.
 
 Lembrando que a ordem dos fios (T568B ou T568A) deve ser consistente em ambos os conectores RJ-45 para que o cabo funcione corretamente em sua rede Ethernet. Além disso, use cabos de boa qualidade e certifique-se de que as ferramentas estejam em boas condições para obter resultados confiáveis.
