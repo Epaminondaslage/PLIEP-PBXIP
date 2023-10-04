@@ -108,7 +108,7 @@ O Issabel é uma escolha popular para empresas que desejam implementar sistemas 
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/kit_tel.png" width="40%" /></td>
+<td style="width: 50%;"><img src="./img/kit_tel.jpg" width="40%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 6 - Foto dos equipamentos  utilizados na Prática de PBXIP .</td>
