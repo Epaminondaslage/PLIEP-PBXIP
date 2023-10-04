@@ -92,5 +92,28 @@ Issabel é uma plataforma de comunicações empresariais de código aberto basea
 
 O Issabel é uma escolha popular para empresas que desejam implementar sistemas de comunicações avançados, especialmente aquelas que procuram uma solução baseada em Asterisk com uma interface de gerenciamento amigável. Ele oferece um conjunto de recursos abrangente e pode ser personalizado de acordo com as necessidades específicas de cada organização.
 
+# Infraestrutura de Hardware do laboratório
+
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/pabx rede.png" width="60%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 5 - Equipamentos utilizados na Prática de PBXIP .</td>
+</tr>
+</tbody>
+</table>
+
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/kit tel" width="60%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 6 - Foto dos equipamentos  utilizados na Prática de PBXIP .</td>
+</tr>
+</tbody>
+</table>
 
 
