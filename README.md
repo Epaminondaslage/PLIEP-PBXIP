@@ -39,7 +39,7 @@ Para usar o VoIP, você precisa de um serviço VoIP, o WhatsApp por exemplo ou u
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/Asterisk_logo.png" width="50%" /></td>
+<td style="width: 50%;"><img src="./img/Asterisk_logo.png" width="20%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 2 - Software de PBX IP ASTERISK.</td>
@@ -64,7 +64,7 @@ Issabel é uma plataforma de comunicações empresariais de código aberto basea
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/issabel.jpg" width="50%" /></td>
+<td style="width: 50%;"><img src="./img/issabel.jpg" width="30%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 3 - Plataforma de Comunicação Issabel.</td>
@@ -82,7 +82,7 @@ Issabel é uma plataforma de comunicações empresariais de código aberto basea
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/painel issabel.png" width="50%" /></td>
+<td style="width: 50%;"><img src="./img/painel issabel.png" width="60%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 4 - Dashboard do Issabel.</td>
