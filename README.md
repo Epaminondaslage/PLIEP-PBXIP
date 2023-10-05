@@ -1,4 +1,4 @@
-<img width="628" alt="image" src="https://github.com/Epaminondaslage/PLIEP-PBXIP/assets/44790000/1f186b10-ab49-4eb5-b4b6-e903879cefae"># Este repositório está em desenvolvimento e portanto ainda incompleto.
+ # Este repositório está em desenvolvimento e portanto ainda incompleto.
 
 
 ## Aula prática de montagem e configuração de um PBX IP utilizando software de código livre e gratuito. 
