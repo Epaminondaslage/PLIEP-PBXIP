@@ -196,7 +196,7 @@ Download Softfone:
 
 Vá ao site do zoiper e escolha a versão do software conforme seu sistema operacional
 
-https://www.zoiper.com/en/voip-softphone/download/current
+https://www.zoiper.com/en/voip-softphone/download/current 
 
 <table border="0">
 <tbody>
