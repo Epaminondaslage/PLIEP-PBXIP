@@ -167,7 +167,7 @@ Alicate de crimpar Multi função, corta fio para conectores de passagem EZ Crim
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 40%;"><img src="./img/conector.jpg" width="40%" /></td>
+<td style="width: 40%;"><img src="./img/conectorrj45.png" width="40%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Conectores RJ45.</td>
