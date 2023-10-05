@@ -201,7 +201,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/ Zoiper.png" width="80%" /></td>
+<td style="width: 50%;"><img src="./img/Zoiper.png" width="80%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
