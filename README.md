@@ -212,7 +212,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/zoiper1.jpg" width="50%" /></td>
+<td style="width: 50%;"><img src="./img/zoiper1.jpeg" width="50%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
@@ -223,7 +223,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/zoiper2.jpg" width="50%" /></td>
+<td style="width: 50%;"><img src="./img/zoiper2.jpeg" width="50%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
@@ -234,7 +234,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/zoiper3.jpg" width="50%" /></td>
+<td style="width: 50%;"><img src="./img/zoiper3.jpeg" width="50%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
@@ -245,7 +245,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/zoiper4.jpg" width="50%" /></td>
+<td style="width: 50%;"><img src="./img/zoiper4.jpeg" width="50%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
@@ -256,7 +256,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/zoiper5.jpg" width="50%" /></td>
+<td style="width: 50%;"><img src="./img/zoiper5.jpeg" width="50%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
@@ -267,7 +267,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/zoiper6.jpg" width="50%" /></td>
+<td style="width: 50%;"><img src="./img/zoiper6.jpeg" width="50%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
