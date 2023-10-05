@@ -153,17 +153,6 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/Conector.png" width="60%" /></td>
-</tr>
-<tr>
-<td style="text-align: center;">Figura xx - Ordem dos fios padrão T568B no conector RJ-45.</td>
-</tr>
-</tbody>
-</table>
-
-<table border="0">
-<tbody>
-<tr>
 <td style="width: 50%;"><img src="./img/alicate.png" width="60%" /></td>
 </tr>
 <tr>
@@ -220,6 +209,19 @@ Lembrando que a ordem dos fios (T568B ou T568A) deve ser consistente em ambos os
 <table border="0">
 <tbody>
 <tr>
+<td style="width: 50%;"><img src="./img/Conector.png" width="60%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura xx - Ordem dos fios padrão T568B no conector RJ-45.</td>
+</tr>
+</tbody>
+</table>
+
+Dois padrões de T568A e T568B podem ser usados ​​para conectar cabos Ethernet Cat5e e Cat6. A única diferença entre o T568A e o T568B é que as posições dos fios da faixa verde / verde e laranja / laranja são trocadas.
+
+<table border="0">
+<tbody>
+<tr>
 <td style="width: 50%;"><img src="./img/rj45.jpg" width="80%" /></td>
 </tr>
 <tr>
@@ -228,18 +230,16 @@ Lembrando que a ordem dos fios (T568B ou T568A) deve ser consistente em ambos os
 </tbody>
 </table>
 
-Dois padrões de T568A e T568B podem ser usados ​​para conectar cabos Ethernet Cat5e e Cat6. A única diferença entre o T568A e o T568B é que as posições dos fios da faixa verde / verde e laranja / laranja são trocadas.
-
 ## Conectar os cabos entre os telefones IP e o Switch
 
 
-
+descrever as atividades
 
 
 
 ## Configurar os aparenhos telefonicos IP
 
-
+descrever as atividades
 
 ## Softfone no celular
 
@@ -249,7 +249,7 @@ O softphone tem uma interface de uso fácil. Por meio da tela do dispositivo que
 
 O softphone é composto por uma tela com teclado numérico semelhante ao do celular, onde o usuário realiza chamadas como faria em um dispositivo móvel. Além disso, o software geralmente inclui uma lista de contatos, identificador e histórico de chamadas e outros recursos. Para que a ligação tenha uma boa qualidade, é recomendado utilizar o softphone junto com um headset.
 
-Download Softfone:
+## Download do Softfone:
 
 Vá ao site do zoiper e escolha a versão do software conforme seu sistema operacional
 
