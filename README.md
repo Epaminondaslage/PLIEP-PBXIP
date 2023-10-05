@@ -154,7 +154,7 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/alicate.png" width="60%" /></td>
+<td style="width: 40%;"><img src="./img/alicate.png" width="40%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Alicate para crimpagem de conectores RJ45.</td>
@@ -167,7 +167,7 @@ Alicate de crimpar Multi função, corta fio para conectores de passagem EZ Crim
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/conector.png" width="60%" /></td>
+<td style="width: 40%;"><img src="./img/conector.jpg" width="40%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Conectores RJ45.</td>
@@ -180,7 +180,7 @@ O RJ45 (Registered Jack 45) é um dos principais conectores utilizado nas placas
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/cabo.png" width="60%" /></td>
+<td style="width: 40%;"><img src="./img/cabo.png" width="40%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Cabo UTP Cat5e.</td>
