@@ -263,7 +263,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/Zoiper.png" width="50%" /></td>
+<td style="width: 10%;"><img src="./img/Zoiper.png" width="10%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
@@ -271,12 +271,12 @@ https://www.zoiper.com/en/voip-softphone/download/current
 </tbody>
 </table>
 
-sfdfdfdfdf
+* sfdfdfdfdf
 
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="./img/zoiper1.jpeg" width="25%" /></td>
+<td style="width: 10%;"><img src="./img/zoiper1.jpeg" width="10%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
@@ -284,27 +284,12 @@ sfdfdfdfdf
 </tbody>
 </table>
 
-sfdfdfdfdf
+* sfdfdfdfdf
 
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="./img/zoiper2.jpeg" width="25%" /></td>
-</tr>
-<tr>
-<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
-</tr>
-</tbody>
-</table>
-
-
-sfdfdfdfdf
-
-
-<table border="0">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="./img/zoiper3.jpeg" width="25%" /></td>
+<td style="width: 10%;"><img src="./img/zoiper2.jpeg" width="10%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
@@ -313,13 +298,28 @@ sfdfdfdfdf
 </table>
 
 
-sfdfdfdfdf
+* sfdfdfdfdf
 
 
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="./img/zoiper4.jpeg" width="25%" /></td>
+<td style="width: 10%;"><img src="./img/zoiper3.jpeg" width="10%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+</tr>
+</tbody>
+</table>
+
+
+* sfdfdfdfdf
+
+
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 10%;"><img src="./img/zoiper4.jpeg" width="10%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
@@ -334,7 +334,7 @@ sfdfdfdfdf
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="./img/zoiper5.jpeg" width="25%" /></td>
+<td style="width: 10%;"><img src="./img/zoiper5.jpeg" width="10%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
@@ -342,14 +342,14 @@ sfdfdfdfdf
 </tbody>
 
  
-sfdfdfdfdf
+* sfdfdfdfdf
    
 
 </table>
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="./img/zoiper6.jpeg" width="25%" /></td>
+<td style="width: 10%;"><img src="./img/zoiper6.jpeg" width="10%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
