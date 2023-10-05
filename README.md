@@ -184,7 +184,31 @@ Dois padrões de T568A e T568B podem ser usados ​​para conectar cabos Ethern
 
 
 
-## Baixar o app softfone no celular e configurá-lo
+## Softfone no celular
+
+Softphone é um software possível fazer chamadas telefônicas pela Internet. Os dispositivos mais comuns para uso do Softphone são: computador, notebook, tablet ou um smartphone, que permite ao usuário efetuar e receber chamadas sem precisar de um telefone convencional.
+
+O softphone tem uma interface de uso fácil. Por meio da tela do dispositivo que escolher usar, você poderá ver uma representação gráfica de um telefone ou apenas de um teclado virtual.Usando o teclado, mouse, o touch screen de seu celular ou outro tipo de hardware, você consegue discar um número, armazenar contatos, atender ou desligar uma ligação, fazer transferência de chamadas e outras funções.
+
+O softphone é composto por uma tela com teclado numérico semelhante ao do celular, onde o usuário realiza chamadas como faria em um dispositivo móvel. Além disso, o software geralmente inclui uma lista de contatos, identificador e histórico de chamadas e outros recursos. Para que a ligação tenha uma boa qualidade, é recomendado utilizar o softphone junto com um headset.
+
+Download Softfone:
+
+Vá ao site do zoiper e escolha a versão do software conforme seu sistema operacional
+
+https://www.zoiper.com/en/voip-softphone/download/current
+
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/zoiper.jpg" width="80%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+</tr>
+</tbody>
+</table>
+
 
 
 ## Realizar os testes do PBX
