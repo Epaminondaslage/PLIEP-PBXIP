@@ -1,4 +1,4 @@
-# PLIEP-PBXIP
+# PLIEP-PBXIP 
 Laboratório de Instalações Elétricas Prediais do CEFET-MG, pertence ao Departamento de Engenharia Elétrica e a Coordenação do Curso Técnico de Eletrotécnica. 
 
 Aula prática de montagem e configuração de um PBX IB com software aberto. 
