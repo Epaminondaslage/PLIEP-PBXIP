@@ -209,8 +209,71 @@ https://www.zoiper.com/en/voip-softphone/download/current
 </tbody>
 </table>
 
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/zoiper1.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+</tr>
+</tbody>
+</table>
 
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/zoiper2.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+</tr>
+</tbody>
+</table>
 
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/zoiper3.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+</tr>
+</tbody>
+</table>
+
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/zoiper4.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+</tr>
+</tbody>
+</table>
+
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/zoiper5.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+</tr>
+</tbody>
+ 
+</table>
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/zoiper6.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+</tr>
+</tbody>
+</table>
 ## Realizar os testes do PBX
 
 
