@@ -1,9 +1,14 @@
-# PLIEP-PBXIP 
-Laboratório de Instalações Elétricas Prediais do CEFET-MG, pertence ao Departamento de Engenharia Elétrica e a Coordenação do Curso Técnico de Eletrotécnica. 
+<img width="628" alt="image" src="https://github.com/Epaminondaslage/PLIEP-PBXIP/assets/44790000/1f186b10-ab49-4eb5-b4b6-e903879cefae"># Este repositório está em desenvolvimento e portanto ainda incompleto.
 
-Aula prática de montagem e configuração de um PBX IB com software aberto. 
 
-# Objetivos:
+## Aula prática de montagem e configuração de um PBX IP utilizando software de código livre e gratuito. 
+
+## Departamento de Engenharia Elétrica do CEFET-MG campus NG  
+## Coordenação do Curso Técnico de Eletrotécnica. 
+## Laboratório de Instalações Elétricas Prediais - PLIEP
+
+
+# Objetivos da aula
 
 * Capacitar os alunos a desenvolver habilidades práticas na montagem de cabos UTP-CAT5 com conectores RJ-45 para estabelecer a rede Ethernet, viabilizando a interligação de equipamentos;
 * Proporcionar conhecimentos para a configuração de telefones IP e softphones para celular, permitindo que os alunos adquiram competências valiosas no campo das comunicações VoIP (Voz sobre IP);
@@ -60,7 +65,7 @@ O Asterisk é amplamente utilizado por empresas de todos os tamanhos para implem
 
 # O ISSABEL
 
-Issabel é uma plataforma de comunicações empresariais de código aberto baseada no software Asterisk. Ela fornece um conjunto abrangente de recursos para empresas que desejam implementar sistemas de telecomunicações avançados, como PBX (Private Branch Exchange), serviços de telefonia IP (VoIP) e comunicações unificadas. Issabel é conhecido por ser uma distribuição do Asterisk que facilita a configuração e a gestão de sistemas de comunicação.
+Issabel é uma plataforma de comunicações de voz e dados, de código aberto, baseada no software Asterisk. Ela fornece um conjunto abrangente de recursos para usuários que desejam implementar sistemas de telecomunicações avançados, como PBX (Private Branch Exchange), serviços de telefonia IP (VoIP) e comunicações unificadas. Issabel é conhecido por ser uma distribuição do Asterisk que facilita a configuração e a gestão de sistemas de comunicação.
 <table border="0">
 <tbody>
 <tr>
@@ -94,6 +99,18 @@ Issabel é uma plataforma de comunicações empresariais de código aberto basea
 O Issabel é uma escolha popular para empresas que desejam implementar sistemas de comunicações avançados, especialmente aquelas que procuram uma solução baseada em Asterisk com uma interface de gerenciamento amigável. Ele oferece um conjunto de recursos abrangente e pode ser personalizado de acordo com as necessidades específicas de cada organização.
 
 # Infraestrutura de Hardware do laboratório
+
+O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, possui os segintes equipamentos destinados a esta atividade:
+
+* 01 servidor intel, com 4Gb de menória e 1 TB de disco rígido onde está instalado o sistema operacional Linux e a plataforma de sw Issabel;
+* 05 telefones IP marca  Khomp IP300;
+* 01 switch de 8 portas RJ45 de 10/100/1000 mbps;
+* 01 roteador WIFI Mikrotik RB 433;
+* 01 monitor de vídeo 14";
+* 01 teclado;
+* cabos UTP cat 5;
+* conectores RJ45 e
+* alicate  para crimpagem de conextores RJ45 e RJ11.
 
 <table border="0">
 <tbody>
@@ -129,8 +146,9 @@ O Issabel é uma escolha popular para empresas que desejam implementar sistemas 
  * Ferramenta de decapagem de cabos ou um estilete
  * Ferramenta de corte
  * Diagrama de pinagem (para garantir que os fios estejam na ordem correta)
+ * Alicate para crimpagem de conectores RJ45
 
-## Passos:
+## Ferramentas necessárias
 
 <table border="0">
 <tbody>
@@ -138,11 +156,48 @@ O Issabel é uma escolha popular para empresas que desejam implementar sistemas 
 <td style="width: 50%;"><img src="./img/Conector.png" width="60%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 7 - Ordem dos fios padrão T568B no conector RJ-45.</td>
+<td style="text-align: center;">Figura xx - Ordem dos fios padrão T568B no conector RJ-45.</td>
 </tr>
 </tbody>
 </table>
 
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/alicate.png" width="60%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura xx - Alicate para crimpagem de conectores RJ45.</td>
+</tr>
+</tbody>
+</table>
+
+Alicate de crimpar Multi função, corta fio para conectores de passagem EZ Crimp RJ45 RJ12 RJ11 
+
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/conector.png" width="60%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura xx - Conectores RJ45.</td>
+</tr>
+</tbody>
+</table>
+
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/caboUTP.png" width="60%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura xx - Cabo UTP- Cat5.</td>
+</tr>
+</tbody>
+</table>
+
+
+## Sequencia de Passos
 
    * Preparação dos Fios:
         Decape cerca de 2-3 cm da capa externa do cabo usando uma ferramenta de decapagem ou um estilete. Certifique-se de não danificar os fios internos.
@@ -176,6 +231,8 @@ Lembrando que a ordem dos fios (T568B ou T568A) deve ser consistente em ambos os
 Dois padrões de T568A e T568B podem ser usados ​​para conectar cabos Ethernet Cat5e e Cat6. A única diferença entre o T568A e o T568B é que as posições dos fios da faixa verde / verde e laranja / laranja são trocadas.
 
 ## Conectar os cabos entre os telefones IP e o Switch
+
+
 
 
 
