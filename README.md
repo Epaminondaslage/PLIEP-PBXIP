@@ -151,6 +151,7 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 
 ## Ferramentas necessárias
 
+* Alicate de crimpar Multi função, corta fio para conectores de passagem EZ Crimp RJ45 RJ12 RJ11
 <table border="0">
 <tbody>
 <tr>
@@ -161,9 +162,9 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 </tr>
 </tbody>
 </table>
-
-Alicate de crimpar Multi função, corta fio para conectores de passagem EZ Crimp RJ45 RJ12 RJ11 
-
+ 
+* O RJ45 (Registered Jack 45) é um dos principais conectores utilizado nas placas de rede Ethernet.
+  
 <table border="0">
 <tbody>
 <tr>
@@ -175,7 +176,8 @@ Alicate de crimpar Multi função, corta fio para conectores de passagem EZ Crim
 </tbody>
 </table>
 
-O RJ45 (Registered Jack 45) é um dos principais conectores utilizado nas placas de rede Ethernet.
+* O cabo de rede cat5e foi desenvolvido para suportar velocidades de até 1.000 Mbps, reduzir a interferência da infraestrutura e minimizar a perda de sinal.
+Essas melhorias possibilitaram o uso de cabos mais longos, quase próximos dos atuais 100 metros permitidos. Por isso, é indicado para instalações domésticas e corporativas.
 
 <table border="0">
 <tbody>
@@ -188,8 +190,6 @@ O RJ45 (Registered Jack 45) é um dos principais conectores utilizado nas placas
 </tbody>
 </table>
 
-O cabo de rede cat5e foi desenvolvido para suportar velocidades de até 1.000 Mbps, reduzir a interferência da infraestrutura e minimizar a perda de sinal.
-Essas melhorias possibilitaram o uso de cabos mais longos, quase próximos dos atuais 100 metros permitidos. Por isso, é indicado para instalações domésticas e corporativas.
 
 ## Sequencia de Passos
 
