@@ -65,7 +65,6 @@ O Asterisk é amplamente utilizado por empresas de todos os tamanhos para implem
 
 # O ISSABEL
 
-Issabel é uma plataforma de comunicações de voz e dados, de código aberto, baseada no software Asterisk. Ela fornece um conjunto abrangente de recursos para usuários que desejam implementar sistemas de telecomunicações avançados, como PBX (Private Branch Exchange), serviços de telefonia IP (VoIP) e comunicações unificadas. Issabel é conhecido por ser uma distribuição do Asterisk que facilita a configuração e a gestão de sistemas de comunicação.
 <table border="0">
 <tbody>
 <tr>
@@ -76,6 +75,8 @@ Issabel é uma plataforma de comunicações de voz e dados, de código aberto, b
 </tr>
 </tbody>
 </table>
+
+Issabel é uma plataforma de comunicações de voz e dados, de código aberto, baseada no software Asterisk. Ela fornece um conjunto abrangente de recursos para usuários que desejam implementar sistemas de telecomunicações avançados, como PBX (Private Branch Exchange), serviços de telefonia IP (VoIP) e comunicações unificadas. Issabel é conhecido por ser uma distribuição do Asterisk que facilita a configuração e a gestão de sistemas de comunicação.
 
 ## Características básicas do Issabel:
 
@@ -91,7 +92,7 @@ Issabel é uma plataforma de comunicações de voz e dados, de código aberto, b
 <td style="width: 50%;"><img src="./img/painel issabel.png" width="60%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 4 - Dashboard do Issabel.</td>
+<td style="text-align: center;">Figura xx - Dashboard do Issabel.</td>
 </tr>
 </tbody>
 </table>
@@ -129,7 +130,7 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 <td style="width: 50%;"><img src="./img/kit_tel.jpg" width="40%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 6 - Foto dos equipamentos  utilizados na Prática de PBXIP .</td>
+<td style="text-align: center;">Figura xx - Foto dos equipamentos  utilizados na Prática de PBXIP.</td>
 </tr>
 </tbody>
 </table>
@@ -174,17 +175,21 @@ Alicate de crimpar Multi função, corta fio para conectores de passagem EZ Crim
 </tbody>
 </table>
 
+O RJ45 (Registered Jack 45) é um dos principais conectores utilizado nas placas de rede Ethernet.
+
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/caboUTP.png" width="60%" /></td>
+<td style="width: 50%;"><img src="./img/cabo.png" width="60%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Cabo UTP- Cat5.</td>
+<td style="text-align: center;">Figura xx - Cabo UTP Cat5e.</td>
 </tr>
 </tbody>
 </table>
 
+O cabo de rede cat5e foi desenvolvido para suportar velocidades de até 1.000 Mbps, reduzir a interferência da infraestrutura e minimizar a perda de sinal.
+Essas melhorias possibilitaram o uso de cabos mais longos, quase próximos dos atuais 100 metros permitidos. Por isso, é indicado para instalações domésticas e corporativas.
 
 ## Sequencia de Passos
 
