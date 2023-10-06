@@ -411,7 +411,6 @@ https://www.zoiper.com/en/voip-softphone/download/current
 </table>
 
 * Tela inicial do app contendo o telado e barra de funções.
-
 <table border="0">
 <tbody>
 <tr>
@@ -424,7 +423,6 @@ https://www.zoiper.com/en/voip-softphone/download/current
 </table>
 
 * Pressione a engrenagem "Configurações"
-
 <table border="0">
 <tbody>
 <tr>
@@ -436,10 +434,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 </tbody>
 </table>
 
-
 * Escolha o ítem do menu "Contas"
-
-
 <table border="0">
 <tbody>
 <tr>
@@ -451,39 +446,31 @@ https://www.zoiper.com/en/voip-softphone/download/current
 </tbody>
 </table>
 
-
 * Clicar no "+" no canto superior direito e a opção "SIM"para a pergunta "Você já tem uma conta?". posteriomente clicar no botão "Configuração Manual"
-
-
 <table border="0">
 <tbody>
 <tr>
 <td style="width: 30%;"><img src="./img/zoiper4.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Zoiper- Escolha do tipo de conta .</td>
+<td style="text-align: center;">Figura xx - Zoiper- Configuração manual da "Conta".</td>
 </tr>
 </tbody>
 </table>
 
 
-sfdfdfdfdf
-
-
+* Escolha o tipo de Conta SIP
 <table border="0">
 <tbody>
 <tr>
 <td style="width: 30%;"><img src="./img/zoiper5.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+<td style="text-align: center;">Figura xx - Zoiper- Menu de tipos de "Contas".</td>
 </tr>
 </tbody>
 
- 
-* sfdfdfdfdf
-   
-
+* Configurações da Conta
 </table>
 <table border="0">
 <tbody>
@@ -496,8 +483,19 @@ sfdfdfdfdf
 </tbody>
 </table>
 
+Preencha os campos :
+
+Nome da conta: 
+Domain:
+Nome do Usuário:
+Password:
+Caller ID: 
+
+Mantenha os demais campos como estão. esta é a configuração básica para realizar e receber ligações VOIP.
+Pressione o botão "Registrar". Caso as configurações estejam corretas irá aparecer a mensagem : "Status de registro OK". O Softfone estará pronto para uso.
+
 
 ## Realizar os testes do PBX
 
-
+Descrever os testes a serem feitos.
 
