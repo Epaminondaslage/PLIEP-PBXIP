@@ -1,5 +1,5 @@
- # Este repositório está em desenvolvimento.Outubro de 2023
 
+ <td style="width: 20%;"><img src="/img/banner.png" width="100%"></td>
 
 ## Aula prática de montagem e configuração de um PBX IP utilizando software de código livre e gratuito. 
 
@@ -7,6 +7,7 @@
 ## Coordenação do Curso Técnico de Eletrotécnica. 
 ## Laboratório de Instalações Elétricas Prediais - PLIEP
 
+## Este repositório está em desenvolvimento.Outubro de 2023
 
 # Objetivos da aula
 
