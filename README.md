@@ -1,4 +1,4 @@
- # Este repositório está em desenvolvimento e portanto ainda incompleto.
+ # Este repositório está em desenvolvimento e portanto ainda incompleto.Outubro de 2023
 
 
 ## Aula prática de montagem e configuração de um PBX IP utilizando software de código livre e gratuito. 
@@ -41,6 +41,9 @@ A principal vantagem do VoIP é a economia de custos em comparação com as cham
 Para usar o VoIP, você precisa de um serviço VoIP, o WhatsApp por exemplo ou um dispositivo compatível, como um computador, smartphone, tablet ou telefone IP. A voz é convertida em pacotes de dados digitais e transmitida pela Internet para o destinatário, onde é convertida de volta em áudio. Essa tecnologia tornou-se amplamente popular para chamadas de longa distância, videoconferências, chamadas internacionais e comunicações pessoais ou empresariais devido à sua eficiência e custos reduzidos.
 
 # O Asterisk
+
+https://github.com/asterisk/asterisk
+
 <table border="0">
 <tbody>
 <tr>
@@ -64,6 +67,8 @@ O Asterisk é um software de código aberto que desempenha um papel fundamental 
 O Asterisk é amplamente utilizado por empresas de todos os tamanhos para implementar sistemas de telecomunicações personalizados e eficientes. Sua versatilidade, juntamente com sua natureza de código aberto, o torna uma escolha popular para muitos projetos de comunicação empresarial e VoIP.
 
 # O ISSABEL
+
+https://github.com/IssabelFoundation
 
 <table border="0">
 <tbody>
@@ -244,6 +249,8 @@ descrever as atividades
 
 ## Aparelhostelefonicos IP Khomp IPS 300
 
+https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf 
+
 <table border="0">
 <tbody>
 <tr>
@@ -365,7 +372,7 @@ descrever as atividades
     Indústria certificada ISO 9001:2008
 
   
- * Configuração do telefone IP Khomp IPS 300
+ * Configuração do telefone IP Khomp IPS 300 pelo teclado
 
    <table border="0">
 <tbody>
