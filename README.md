@@ -471,6 +471,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 </tbody>
 
 * Configurações da Conta
+  
 </table>
 <table border="0">
 <tbody>
@@ -478,18 +479,19 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper6.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+<td style="text-align: center;">Figura xx - Configurações da "Conta SIP".</td>
 </tr>
 </tbody>
 </table>
 
+
 Preencha os campos :
 
-Nome da conta: 
-Domain:
-Nome do Usuário:
-Password:
-Caller ID: 
+* Nome da conta: 
+* Domain:
+* Nome do Usuário:
+* Password:
+* Caller ID: 
 
 Mantenha os demais campos como estão. esta é a configuração básica para realizar e receber ligações VOIP.
 Pressione o botão "Registrar". Caso as configurações estejam corretas irá aparecer a mensagem : "Status de registro OK". O Softfone estará pronto para uso.
