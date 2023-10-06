@@ -242,11 +242,135 @@ descrever as atividades
 
 
 
-## Configurar os aparenhos telefonicos IP
+## Configurar os aparenhos telefonicos IP Khomp IPS 300
 
-descrever as atividades
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/ips300.png" width="80%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura nn - Telefone IP Khomp IPS 300.</td>
+</tr>
+</tbody>
+</table>
 
-## Softfone no celular
+* Modelo IPS 300 - Características
+
+    3 linhas
+    LCD de 128 x 64 pixels
+    Conexão Gigabit Ethernet
+    HD Voice
+    Suporte a PoE (Power Over Ethernet)
+
+* Voz clara
+
+    Abrange a exclusiva tecnologia de processamento de voz que permite chamadas de voz mais realistas e claras e comunicação mais fluente
+
+* Avançado processamento de chamadas
+
+    Suporta um circuito de 2 linhas com luz indicadora de 2 cores, para auxiliar no gerenciamento de linhas simultâneas e fila de chamadas
+    Indicado para teleconferência e transferência de chamadas
+    Suporte a ligações peer-to-peer
+
+* Lista de Contatos
+
+    Suporte a contatos comerciais.
+    Catálogo telefônico particular facilitando a busca por número da chamada.
+
+*Tela
+
+    Display LCD gráfico de 128 X 64 pixels
+    Tamanho da tela: 6 x 3 cm
+
+* Idioma
+
+    Português, Espanhol, Inglês e outros
+
+* Teclado de funções
+
+    4 teclas programáveis (via software)
+    3 teclas de linha
+    6 teclas de navegação (botão de seta, botão OK, botão C)
+    Ajuste de volume, viva-voz, interrupção de som (mudo), fone de ouvido, caixa de mensagens, retenção (hold), rediscagem, conferência e transferência.
+
+* Protocolos de Comunicação
+
+    VoIP: Protocolo SIP 2.0
+    Protocolo de rede: HTTP, BOOTP, FTP, TFTP, IEEE 802.1Q
+    Qualidade do Serviço: TOS, Jiffer Buffer, VAD, CNG, G.168 (32ms)
+
+* Decodificação de voz
+
+    Codecs: G.723.1, G.729 A/B, G.711 A/U, G.722
+
+* Rede
+
+    2×RJ45 10/100/1000M Gigabit Ethernet Interfaces (LAN/PC)
+    Atribuição de IP: IP estático, DHCP, PPPoE
+    Cliente DNS, VPN(L2TP), VLAN
+
+* Voz
+
+    Voz HD: HD Codec/Handset/Speaker(Full-duplex)
+    Disponível o modo de alça, fone de ouvido e viva-voz
+    Suporta fones de ouvido PS2 ou RJ9(4P4C)
+    Ajuste separado de volume de 9 níveis
+
+* Processamento de chamadas
+
+    Indicador de status das linhas
+    Sempre encaminhar, encaminhamento ocupado, encaminhamento sem resposta
+    Linha direta (imediatamente/atraso)
+    Chamada em espera, fila de chamadas, comutação de linha
+    Encaminhamento de chamada, transferência de chamada, retenção de chamada, atenção de chamada, retorno de chamada
+    Discagem de uma tecla, rediscagem
+    Discagem rápida diretamente do telefone, discagem direta do registro de chamadas
+    Conferência de 3 vias, SIP MESSAGE (Instant Message)
+    DnD, Lista negra
+    Correio de voz, prompt de voz, mensagem de voz
+    BLF, BLA, discagem rápida
+
+* Aplicativos
+
+    Catálogo telefônico público, particular e em XML.
+    Suporte para parede ajustável.
+
+* Segurança
+
+    Login no LCD e no site mediante senha.
+    Codificação da sinalização e de mídias.
+
+* Gerenciamento
+
+    Atualização: HTTP/TFTP/FTP Auto-provisão/TR069
+    Configurações: Telefone/Web/ Auto-provisão/TR069
+    Depuração: Telnet/Telefone/Web
+
+* Alimentação
+
+    Adaptador de energia: entrada CA100~240V e saída CC 5V/1A 
+    PoE (IEEE 802.af)
+
+* Especificações
+
+    Temperatura de armazenamento: 0ºC ~ 60ºC
+    Umidade na operação: 10%~90%
+    Tamanho: 191 x 205 x 51 mm
+    Peso líquido: 800g
+
+* Certificações
+
+    Certificação Anatel
+    Indústria certificada ISO 9001:2008
+
+  
+ * Configuração do telefone IP Khomp IPS 300
+
+
+
+
+## Softfone Zoiper no celular
 
 Softphone é um software possível fazer chamadas telefônicas pela Internet. Os dispositivos mais comuns para uso do Softphone são: computador, notebook, tablet ou um smartphone, que permite ao usuário efetuar e receber chamadas sem precisar de um telefone convencional.
 
@@ -256,7 +380,7 @@ O softphone é composto por uma tela com teclado numérico semelhante ao do celu
 
 ## Download do Softfone:
 
-Vá ao site do zoiper e escolha a versão do software conforme seu sistema operacional
+Vá ao site do zoiper e escolha a versão do software conforme seu sistema operacional e instale em seu celular. Após instalado abra o aplicativo.
 
 https://www.zoiper.com/en/voip-softphone/download/current 
 
