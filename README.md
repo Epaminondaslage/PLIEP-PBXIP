@@ -168,8 +168,7 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 </tbody>
 </table>
  
-* O RJ45 (Registered Jack 45) é um dos principais conectores utilizado nas placas de rede Ethernet.
-  
+* O RJ45 (Registered Jack 45) é um dos principais conectores utilizado para ligar placas de rede Ethernet a ativos como switchs, roteadores, etc.
 <table border="0">
 <tbody>
 <tr>
@@ -183,7 +182,6 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 
 * O cabo de rede cat5e foi desenvolvido para suportar velocidades de até 1.000 Mbps, reduzir a interferência da infraestrutura e minimizar a perda de sinal.
 Essas melhorias possibilitaram o uso de cabos mais longos, quase próximos dos atuais 100 metros permitidos. Por isso, é indicado para instalações domésticas e corporativas.
-
 <table border="0">
 <tbody>
 <tr>
@@ -195,8 +193,7 @@ Essas melhorias possibilitaram o uso de cabos mais longos, quase próximos dos a
 </tbody>
 </table>
 
-
-## Sequencia de Passos
+## Sequência de Passos
 
    * Preparação dos Fios:
         Decape cerca de 2-3 cm da capa externa do cabo usando uma ferramenta de decapagem ou um estilete. Certifique-se de não danificar os fios internos.
@@ -247,7 +244,7 @@ descrever as atividades
 
 
 
-## Aparelhostelefonicos IP Khomp IPS 300
+## Aparelhos telefonicos IP Khomp IPS 300
 
 https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf 
 
