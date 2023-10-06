@@ -1,5 +1,6 @@
 
  <td style="width: 20%;"><img src="/img/banner.png" width="100%"></td>
+
 ## Departamento de Engenharia Elétrica do CEFET-MG Campus NG 
 
 ## Coordenação do Curso Técnico de Eletrotécnica. 
@@ -10,19 +11,19 @@
 
 ## Este repositório está em desenvolvimento.Outubro de 2023
 
-# Objetivos da aula
+# Objetivos da aula prática
 
 * Capacitar os alunos a desenvolver habilidades práticas na montagem de cabos UTP-CAT5 com conectores RJ-45 para estabelecer a rede Ethernet, viabilizando a interligação de equipamentos;
 * Proporcionar conhecimentos para a configuração de telefones IP e softphones para celular, permitindo que os alunos adquiram competências valiosas no campo das comunicações VoIP (Voz sobre IP);
 * Conhecer o básico da operação e das facilidades o SW livre Asterisk e a interface gráfica do pbxIP Issabel.
  
-# O que é um sistema de telefone PBX?
+# O que é um sistema de telefonia PBX?
 
-O PBX, ou Private Branch Exchange, é um sistema de telecomunicações usado em empresas para facilitar a comunicação interna e externa. Tradicionalmente, as empresas empregavam telefones proprietários específicos para se conectar ao PBX, mas a evolução tecnológica levou à adoção predominante de sistemas IP-PBX, baseados em padrões abertos e compatíveis com a tecnologia de Voz sobre IP (VoIP).
+O PBX, ou "Private Branch Exchange", é um sistema de telecomunicações usado em empresas para facilitar a comunicação interna e externa. Tradicionalmente, as empresas empregavam telefones proprietários específicos para se conectar ao PBX, mas a evolução tecnológica levou à adoção predominante de sistemas IP-PBX, baseados em padrões abertos e compatíveis com a tecnologia de Voz sobre IP (VoIP).
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/pcx.png" width="50%" /></td>
+<td style="width: 50%;"><img src="./img/pbx.png" width="50%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 1 - PbX IP - Aplicações e usos</td>
@@ -30,7 +31,6 @@ O PBX, ou Private Branch Exchange, é um sistema de telecomunicações usado em 
 </tbody>
 </table>
 
- 
 Os sistemas PBX, são projetados para automatizar e simplificar o gerenciamento de chamadas telefônicas em ambientes corporativos. Isso inclui recursos como grupos de ramais para direcionar chamadas para vários telefones, filas para atendimento ordenando as chamadas, correio de voz para armazenar mensagens, gravações de ligações e muito mais.
 
 PBXIP utiliza a automação e a tecnologia IP para otimizar a gestão das chamadas telefônicas em empresas, oferecendo recursos avançados para melhorar a eficiência nas comunicações internas e externas.
