@@ -410,7 +410,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 </tbody>
 </table>
 
-* sfdfdfdfdf
+* Tela inicial do app contendo o telado e barra de funções.
 
 <table border="0">
 <tbody>
@@ -418,12 +418,12 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper1.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+<td style="text-align: center;">Figura xx - Zoiper- Tela inicial.</td>
 </tr>
 </tbody>
 </table>
 
-* sfdfdfdfdf
+* Pressione a engrenagem "Configurações"
 
 <table border="0">
 <tbody>
@@ -431,13 +431,13 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper2.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+<td style="text-align: center;">Figura xx - Zoiper- Menu de configurações.</td>
 </tr>
 </tbody>
 </table>
 
 
-* sfdfdfdfdf
+* Escolha o ítem do menu "Contas"
 
 
 <table border="0">
@@ -446,13 +446,13 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper3.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+<td style="text-align: center;">Figura xx - Zoiper- Tela de criação de contas de usuários.</td>
 </tr>
 </tbody>
 </table>
 
 
-* sfdfdfdfdf
+* Clicar no "+" no canto superior direito e a opção "SIM"para a pergunta "Você já tem uma conta?". posteriomente clicar no botão "Configuração Manual"
 
 
 <table border="0">
@@ -461,7 +461,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper4.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+<td style="text-align: center;">Figura xx - Zoiper- Escolha do tipo de conta .</td>
 </tr>
 </tbody>
 </table>
