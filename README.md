@@ -277,9 +277,7 @@ descrever as atividades
 
     Suporte a contatos comerciais.
     Catálogo telefônico particular facilitando a busca por número da chamada.
-
-*Tela
-
+* Tela
     Display LCD gráfico de 128 X 64 pixels
     Tamanho da tela: 6 x 3 cm
 
