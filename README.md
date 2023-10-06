@@ -242,12 +242,12 @@ descrever as atividades
 
 
 
-## Configurar os aparenhos telefonicos IP Khomp IPS 300
+## Aparelhostelefonicos IP Khomp IPS 300
 
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/ips300.png" width="80%" /></td>
+<td style="width: 70%;"><img src="./img/telefonekhomp.png" width="70%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura nn - Telefone IP Khomp IPS 300.</td>
@@ -366,6 +366,17 @@ descrever as atividades
 
   
  * Configuração do telefone IP Khomp IPS 300
+
+   <table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/telefoneips300.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura nn - Funcionalidades do telefone.</td>
+</tr>
+</tbody>
+</table>
 
 
 
