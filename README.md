@@ -1,9 +1,9 @@
- # Este repositório está em desenvolvimento e portanto ainda incompleto.Outubro de 2023
+ # Este repositório está em desenvolvimento.Outubro de 2023
 
 
 ## Aula prática de montagem e configuração de um PBX IP utilizando software de código livre e gratuito. 
 
-## Departamento de Engenharia Elétrica do CEFET-MG campus NG  
+## Departamento de Engenharia Elétrica do CEFET-MG Campus NG  
 ## Coordenação do Curso Técnico de Eletrotécnica. 
 ## Laboratório de Instalações Elétricas Prediais - PLIEP
 
