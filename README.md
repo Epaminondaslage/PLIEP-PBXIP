@@ -18,9 +18,17 @@
 # O que é um sistema de telefone PBX?
 
 O PBX, ou Private Branch Exchange, é um sistema de telecomunicações usado em empresas para facilitar a comunicação interna e externa. Tradicionalmente, as empresas empregavam telefones proprietários específicos para se conectar ao PBX, mas a evolução tecnológica levou à adoção predominante de sistemas IP-PBX, baseados em padrões abertos e compatíveis com a tecnologia de Voz sobre IP (VoIP).
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/pcx.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 1 - PbX IP - Aplicações e usos</td>
+</tr>
+</tbody>
+</table>
 
-
- <td style="width: 30%;"><img src="/img/pbx.png" width="30%"></td>
  
 Os sistemas PBX, são projetados para automatizar e simplificar o gerenciamento de chamadas telefônicas em ambientes corporativos. Isso inclui recursos como grupos de ramais para direcionar chamadas para vários telefones, filas para atendimento ordenando as chamadas, correio de voz para armazenar mensagens, gravações de ligações e muito mais.
 
@@ -34,7 +42,7 @@ PBXIP utiliza a automação e a tecnologia IP para otimizar a gestão das chamad
 <td style="width: 50%;"><img src="./img/voip.jpg" width="50%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 1 - VOIP-"Voz sobre Protocolo de Internet".</td>
+<td style="text-align: center;">Figura 2 - VOIP-"Voz sobre Protocolo de Internet".</td>
 </tr>
 </tbody>
 </table>
@@ -54,7 +62,7 @@ https://github.com/asterisk/asterisk
 <td style="width: 50%;"><img src="./img/Asterisk_logo.png" width="20%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 2 - Software de PBX IP ASTERISK.</td>
+<td style="text-align: center;">Figura 3 - Software de PBX IP ASTERISK.</td>
 </tr>
 </tbody>
 </table>
@@ -80,7 +88,7 @@ https://github.com/IssabelFoundation
 <td style="width: 50%;"><img src="./img/issabel.jpg" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 3 - Plataforma de Comunicação Issabel.</td>
+<td style="text-align: center;">Figura 4 - Plataforma de Comunicação Issabel.</td>
 </tr>
 </tbody>
 </table>
@@ -101,7 +109,7 @@ Issabel é uma plataforma de comunicações de voz e dados, de código aberto, b
 <td style="width: 50%;"><img src="./img/painel issabel.png" width="60%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Dashboard do Issabel.</td>
+<td style="text-align: center;">Figura 5 - Dashboard do Issabel.</td>
 </tr>
 </tbody>
 </table>
@@ -128,7 +136,7 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 <td style="width: 50%;"><img src="./img/pabx rede.png" width="120%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 5 - Equipamentos utilizados na Prática de PBXIP .</td>
+<td style="text-align: center;">Figura 6 - Equipamentos utilizados na Prática de PBXIP .</td>
 </tr>
 </tbody>
 </table>
@@ -139,7 +147,7 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 <td style="width: 50%;"><img src="./img/kit_tel.jpg" width="40%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Foto dos equipamentos  utilizados na Prática de PBXIP.</td>
+<td style="text-align: center;">Figura 7 - Foto dos equipamentos  utilizados na Prática de PBXIP.</td>
 </tr>
 </tbody>
 </table>
@@ -167,7 +175,7 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 <td style="width: 40%;"><img src="./img/alicate.png" width="40%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Alicate para crimpagem de conectores RJ45.</td>
+<td style="text-align: center;">Figura 8 - Alicate para crimpagem de conectores RJ45.</td>
 </tr>
 </tbody>
 </table>
@@ -179,7 +187,7 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 <td style="width: 40%;"><img src="./img/conectorrj45.png" width="40%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Conectores RJ45.</td>
+<td style="text-align: center;">Figura 9 - Conectores RJ45.</td>
 </tr>
 </tbody>
 </table>
@@ -192,7 +200,7 @@ Essas melhorias possibilitaram o uso de cabos mais longos, quase próximos dos a
 <td style="width: 40%;"><img src="./img/cabo.png" width="40%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Cabo UTP Cat5e.</td>
+<td style="text-align: center;">Figura 10 - Cabo UTP Cat5e.</td>
 </tr>
 </tbody>
 </table>
@@ -223,7 +231,7 @@ Lembrando que a ordem dos fios (T568B ou T568A) deve ser consistente em ambos os
 <td style="width: 50%;"><img src="./img/Conector.png" width="60%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Ordem dos fios padrão T568B no conector RJ-45.</td>
+<td style="text-align: center;">Figura 11 - Ordem dos fios padrão T568B no conector RJ-45.</td>
 </tr>
 </tbody>
 </table>
@@ -236,7 +244,7 @@ Dois padrões de T568A e T568B podem ser usados ​​para conectar cabos Ethern
 <td style="width: 50%;"><img src="./img/rj45.jpg" width="80%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 8 - Ordem dos fios padrão T568B e T568A .</td>
+<td style="text-align: center;">Figura 12 - Ordem dos fios padrão T568B e T568A .</td>
 </tr>
 </tbody>
 </table>
@@ -258,7 +266,7 @@ https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf
 <td style="width: 70%;"><img src="./img/telefonekhomp.png" width="70%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura nn - Telefone IP Khomp IPS 300.</td>
+<td style="text-align: center;">Figura 13 - Telefone IP Khomp IPS 300.</td>
 </tr>
 </tbody>
 </table>
@@ -381,7 +389,7 @@ https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf
 <td style="width: 50%;"><img src="./img/telefoneips300.png" width="50%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura nn - Funcionalidades do telefone.</td>
+<td style="text-align: center;">Figura 14 - Funcionalidades do telefone.</td>
 </tr>
 </tbody>
 </table>
@@ -409,7 +417,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/Zoiper.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Zoiper- Softfone free para uso não comercial.</td>
+<td style="text-align: center;">Figura 15 - Zoiper- Softfone free para uso não comercial.</td>
 </tr>
 </tbody>
 </table>
@@ -421,7 +429,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper1.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Zoiper- Tela inicial.</td>
+<td style="text-align: center;">Figura 16 - Zoiper- Tela inicial.</td>
 </tr>
 </tbody>
 </table>
@@ -433,7 +441,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper2.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Zoiper- Menu de configurações.</td>
+<td style="text-align: center;">Figura 17 - Zoiper- Menu de configurações.</td>
 </tr>
 </tbody>
 </table>
@@ -445,7 +453,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper3.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Zoiper- Tela de criação de contas de usuários.</td>
+<td style="text-align: center;">Figura 18 - Zoiper- Tela de criação de contas de usuários.</td>
 </tr>
 </tbody>
 </table>
@@ -457,7 +465,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper4.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Zoiper- Configuração manual da "Conta".</td>
+<td style="text-align: center;">Figura 19 - Zoiper- Configuração manual da "Conta".</td>
 </tr>
 </tbody>
 </table>
@@ -470,7 +478,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper5.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Zoiper- Menu de tipos de "Contas".</td>
+<td style="text-align: center;">Figura 20 - Zoiper- Menu de tipos de "Contas".</td>
 </tr>
 </tbody>
 
@@ -483,7 +491,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper6.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Configurações da "Conta SIP".</td>
+<td style="text-align: center;">Figura 21 - Configurações da "Conta SIP".</td>
 </tr>
 </tbody>
 </table>
