@@ -464,7 +464,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper2.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 17 - Zoiper- Menu de configurações.</td>
+<td style="text-align: center;">Figura 18 - Zoiper- Menu de configurações.</td>
 </tr>
 </tbody>
 </table>
