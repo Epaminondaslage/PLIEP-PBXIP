@@ -529,7 +529,7 @@ Preencha os campos :
 Mantenha os demais campos como estão. esta é a configuração básica para realizar e receber ligações VOIP.
 Pressione o botão "Registrar". Caso as configurações estejam corretas irá aparecer a mensagem : "Status de registro OK". O Softfone estará pronto para uso.
 
-## Montagem dos cabos conexoes dos equipamentos
+## Montagem dos cabos conexões dos equipamentos
 
 Após a crimpagem dos conectores e testes de funcionamento dos mesmos, deve-se interligar os equipamentos conforme o diagrama abaixo:
 
@@ -537,7 +537,7 @@ Após a crimpagem dos conectores e testes de funcionamento dos mesmos, deve-se i
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/conexao-de-rede.png" width="50%" /></td>
+<td style="width: 100%;"><img src="./img/conexao-de-rede.png" width="100%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 23 - Montagem dos equipamentos e cabeamento de rede.</td>
