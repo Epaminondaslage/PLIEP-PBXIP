@@ -241,7 +241,7 @@ Lembrando que a ordem dos fios (T568B ou T568A) deve ser consistente em ambos os
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/Conector.png" width="60%" /></td>
+<td style="width: 50%;"><img src="./img/Conector.png" width="50%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 11 - Ordem dos fios padrão T568B no conector RJ-45.</td>
@@ -269,7 +269,7 @@ O testador eletrônico de cabeamento de redes de computador e telefonia é uma f
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/testador.png" width="50%" /></td>
+<td style="width: 60%;"><img src="./img/testador.png" width="60%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 13 - Testador de Cabos RJ-45 / RJ-11.</td>
@@ -287,7 +287,7 @@ https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf
 <td style="width: 70%;"><img src="./img/telefonekhomp.png" width="70%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 13 - Telefone IP Khomp IPS 300.</td>
+<td style="text-align: center;">Figura 14 - Telefone IP Khomp IPS 300.</td>
 </tr>
 </tbody>
 </table>
@@ -410,7 +410,7 @@ https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf
 <td style="width: 50%;"><img src="./img/telefoneips300.png" width="50%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 14 - Funcionalidades do telefone.</td>
+<td style="text-align: center;">Figura 15 - Funcionalidades do telefone.</td>
 </tr>
 </tbody>
 </table>
@@ -438,7 +438,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/Zoiper.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 15 - Zoiper- Softfone free para uso não comercial.</td>
+<td style="text-align: center;">Figura 16 - Zoiper- Softfone free para uso não comercial.</td>
 </tr>
 </tbody>
 </table>
@@ -450,7 +450,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper1.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 16 - Zoiper- Tela inicial.</td>
+<td style="text-align: center;">Figura 17 - Zoiper- Tela inicial.</td>
 </tr>
 </tbody>
 </table>
@@ -474,7 +474,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper3.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 18 - Zoiper- Tela de criação de contas de usuários.</td>
+<td style="text-align: center;">Figura 19 - Zoiper- Tela de criação de contas de usuários.</td>
 </tr>
 </tbody>
 </table>
@@ -486,7 +486,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper4.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 19 - Zoiper- Configuração manual da "Conta".</td>
+<td style="text-align: center;">Figura 20 - Zoiper- Configuração manual da "Conta".</td>
 </tr>
 </tbody>
 </table>
@@ -499,7 +499,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper5.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 20 - Zoiper- Menu de tipos de "Contas".</td>
+<td style="text-align: center;">Figura 21 - Zoiper- Menu de tipos de "Contas".</td>
 </tr>
 </tbody>
 
@@ -512,7 +512,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper6.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 21 - Configurações da "Conta SIP".</td>
+<td style="text-align: center;">Figura 22 - Configurações da "Conta SIP".</td>
 </tr>
 </tbody>
 </table>
@@ -540,7 +540,7 @@ Após a crimpagem dos conextoers e testes de funcionamento dos mesmos deve-se in
 <td style="width: 50%;"><img src="./img/montagem.png" width="50%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 22 - Montagem dos equipamentos e cabeamento de rede.</td>
+<td style="text-align: center;">Figura 23 - Montagem dos equipamentos e cabeamento de rede.</td>
 </tr>
 </tbody>
 </table>
