@@ -509,6 +509,22 @@ Preencha os campos :
 Mantenha os demais campos como estão. esta é a configuração básica para realizar e receber ligações VOIP.
 Pressione o botão "Registrar". Caso as configurações estejam corretas irá aparecer a mensagem : "Status de registro OK". O Softfone estará pronto para uso.
 
+## Montagem dos cabos conexoes dos equipamentos
+
+Após a crimpagem dos conextoers e testes de funcionamento dos mesmos deve-se interligar os equipamentos conforma o diagrama abaixo:
+
+</table>
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/montagem.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 22 - Montagem dos equipamentos e cabeamento de rede.</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Realizar os testes do PBX
 
