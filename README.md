@@ -195,13 +195,25 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 
 * O cabo de rede cat5e foi desenvolvido para suportar velocidades de até 1.000 Mbps, reduzir a interferência da infraestrutura e minimizar a perda de sinal.
 Essas melhorias possibilitaram o uso de cabos mais longos, quase próximos dos atuais 100 metros permitidos. Por isso, é indicado para instalações domésticas e corporativas.
+
+* Cabos metálicos utilizados para rede de dados
+
+Nos cabos metálicos de par trançado, há algumas classificações importantes: 
+
+* U/UTP (Unshielded Twisted Pair): Cabo Par Trançado Não Blindado.Cabos sem blindagem geralmente são mais flexíveis e fáceis de crimpar. Por esse motivo, são mais em conta e populares no mercado. entretanto existem outros conforme a blindagem.
+* FTP (Foiled Twisted Pair): São cabos os que utilizam uma blindagem mais simples: de fina folha de aço ou de liga de alumínio, elementos que envolvem todos os pares do cabo, protegendo-os contra interferências externas.
+* STP (Shielded Twisted Pair): Este cabo de rede utiliza uma blindagem individual para cada par de cabos. Isso reduz o crosstalk e melhora a tolerância do cabo de rede com relação à distância, o que pode ser usado em situações em que for necessário crimpar cabos fora do padrão, com mais de 100 metros.
+* SFTP (Screened Foiled Twisted Pair): Os cabos desse tipo combinam a blindagem individual para cada par de cabos com uma segunda blindagem externa, que envolve todas as tranças, o que os torna especialmente resistentes a interferências externas. Por isso, cabos SFTP são mais adequados a ambientes com grande incidência de distorção.
+
+Geralmente os cabos são compostos por condutores de cobre puro recozido de 0,55mm (24 AWG) de diâmetro nominal, isolados com polietileno sólido. No núcleo, uma capa de PVC, com o intuito de retardar a propagação de chamas em caso de incêndios, é aplicada por meio do processo de extrusão para garantir a segurança necessária em qualquer projeto.
+
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 40%;"><img src="./img/cabo.png" width="40%" /></td>
+<td style="width: 30%;"><img src="./img/cabo.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 10 - Cabo UTP Cat5e.</td>
+<td style="text-align: center;">Figura 10 - Cabo UTP - Par trançado não blindado.</td>
 </tr>
 </tbody>
 </table>
@@ -242,7 +254,7 @@ Dois padrões de T568A e T568B podem ser usados ​​para conectar cabos Ethern
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/rj45.jpg" width="80%" /></td>
+<td style="width: 50%;"><img src="./img/rj45.jpg" width="50%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 12 - Ordem dos fios padrão T568B e T568A .</td>
@@ -250,12 +262,20 @@ Dois padrões de T568A e T568B podem ser usados ​​para conectar cabos Ethern
 </tbody>
 </table>
 
-## Conectar os cabos entre os telefones IP e o Switch
+## Testar o funcionamento dos cabos/conectores RJ-45
 
+O testador eletrônico de cabeamento de redes de computador e telefonia é uma ferramenta de medição que visa o bom funcionamento do cabo de acordo com as especificações técnicas em rede de computadores e redes telefônicas. Para executar o teste, conecte os cabos no testador principal e no testador remoto. Ligue a chave de alimentação. As luzes dos dois testadores ligam indicando quais circuitos estão ativos.
 
-descrever as atividades
-
-
+table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/testador.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 13 - Testador de Cabos RJ-45 / RJ-11.</td>
+</tr>
+</tbody>
+</table>
 
 ## Aparelhos telefonicos IP Khomp IPS 300
 
