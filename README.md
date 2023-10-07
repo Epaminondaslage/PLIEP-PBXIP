@@ -60,7 +60,7 @@ https://github.com/asterisk/asterisk
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/Asterisk_logo.png" width="20%" /></td>
+<td style="width: 20%;"><img src="./img/Asterisk_logo.png" width="20%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 3 - Software de PBX IP ASTERISK.</td>
@@ -86,7 +86,7 @@ https://github.com/IssabelFoundation
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/issabel.jpg" width="30%" /></td>
+<td style="width: 30%;"><img src="./img/issabel.jpg" width="30%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 4 - Plataforma de Comunicação Issabel.</td>
@@ -107,7 +107,7 @@ Issabel é uma plataforma de comunicações de voz e dados, de código aberto, b
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/painel issabel.png" width="60%" /></td>
+<td style="width: 60%;"><img src="./img/painel issabel.png" width="60%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 5 - Dashboard do Issabel.</td>
@@ -145,7 +145,7 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/kit_tel.jpg" width="40%" /></td>
+<td style="width: 40%;"><img src="./img/kit_tel.jpg" width="40%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 7 - Foto dos equipamentos  utilizados na Prática de PBXIP.</td>
