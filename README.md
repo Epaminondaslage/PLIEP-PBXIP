@@ -531,13 +531,13 @@ Pressione o botão "Registrar". Caso as configurações estejam corretas irá ap
 
 ## Montagem dos cabos conexoes dos equipamentos
 
-Após a crimpagem dos conextoers e testes de funcionamento dos mesmos deve-se interligar os equipamentos conforma o diagrama abaixo:
+Após a crimpagem dos conectores e testes de funcionamento dos mesmos, deve-se interligar os equipamentos conforme o diagrama abaixo:
 
 </table>
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/montagem.png" width="50%" /></td>
+<td style="width: 50%;"><img src="./img/conexao-de-rede.png" width="50%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 23 - Montagem dos equipamentos e cabeamento de rede.</td>
