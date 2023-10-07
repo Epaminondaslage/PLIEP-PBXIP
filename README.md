@@ -415,6 +415,8 @@ https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf
 </tbody>
 </table>
 
+Os telefones deverão ser configurados conforme a tabela :
+
 
 
 
@@ -544,6 +546,15 @@ Após a crimpagem dos conectores e testes de funcionamento dos mesmos, deve-se i
 </tr>
 </tbody>
 </table>
+
+## Conexão dos celulares ao WI-FI do Laboratório
+
+Uma vez instalado e configurado o app zoipper, troque a rede de WI-FI do celular para:
+
+ * SSID : PLIEP
+ * Senha: EL#C#F#T
+
+Abra o app zoipper e faça os testes de conexão.
 
 
 ## Realizar os testes do PBX
