@@ -266,7 +266,7 @@ Dois padrões de T568A e T568B podem ser usados ​​para conectar cabos Ethern
 
 O testador eletrônico de cabeamento de redes de computador e telefonia é uma ferramenta de medição que visa o bom funcionamento do cabo de acordo com as especificações técnicas em rede de computadores e redes telefônicas. Para executar o teste, conecte os cabos no testador principal e no testador remoto. Ligue a chave de alimentação. As luzes dos dois testadores ligam indicando quais circuitos estão ativos.
 
-table border="0">
+<table border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="./img/testador.png" width="50%" /></td>
