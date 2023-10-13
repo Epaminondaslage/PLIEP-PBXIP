@@ -434,40 +434,52 @@ https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf
   
  * Configuração do telefone IP Khomp IPS 300
 
-Para configurar os aparelhos IP precisaremos do seu IP,  usuário e senha abaixo: Como configurar Telefone IP 300 Khomp
-
- Usuário root
- Senha root
-
+Para configurar os aparelhos IP precisaremos do seu IP,  usuário e senha. Veja como configurar Telefone IP 300 Khomp
 
 1.Inicialmente restaurar configurações de fábrica:
  * Ligar o telefone à energia e e rede de dados, pressionar a tecla Menu seguindo o procedimento:
  
      menu/3.Config.Telefone/2. Configurações Avançadas/1. Avançado/6. Configuração de fábrica/ok  e aguardar
 
-O telefone irá restaurar todas as configurações originais. Ele entrará com DHCP ativado e irá adquirir um IP da rede. E uma senha.
+O telefone irá restaurar todas as configurações originais. Ele entrará com DHCP ativado e irá adquirir um IP da rede.
 
 2.Configurar o Telefone no PBX Issabel:
 
 Pode-se configurar o aparelho telefônico pelo teclado do mesmo ou por uma interface web
 
 
-2.1 configuarar o wifi do seu celular para a rede do laboratório (DEE-Prediais/prediais123)
-2.2 Abrir o nevegador e carregar o endereço do telefone (aparecerá na opção Menu/1. Ver Estado/IP:xxx.xxx.xxx.xx)
+* Configuarar o wifi do seu celular para a rede do laboratório (DEE-Prediais/prediais123)
 
-2.3 Aparecerá a imagem abaixo. Prencha com o usuário e senha. 
+* Abrir o nevegador e carregar o endereço do telefone (aparecerá na opção Menu/1. Ver Estado/IP:xxx.xxx.xxx.xx)
 
+* Aparecerá a imagem abaixo. Prencha com o usuário e senha. 
+
+ Usuário root
+ Senha root
+ 
 <table border="0">
 <tbody>
 <tr>
 <td style="width: 30%;"><img src="./img/configtel1.jpg" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 16 - Zoiper- Softfone free para uso não comercial.</td>
+<td style="text-align: center;">Figura xx - Lela de login do telefone IP </td>
 </tr>
 </tbody>
 </table>
 
+* Aparecera a tela a seguir. Pressionando o menu "Contas SIP" , preencha como os dados abaixo e clicar no botão "Atualizar".
+
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 30%;"><img src="./img/configtel2.jpg" width="30%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura xx - Parametros de configuraçãp dos telefones IP´s. </td>
+</tr>
+</tbody>
+</table>
 
 
 
