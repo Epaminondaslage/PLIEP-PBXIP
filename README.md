@@ -669,14 +669,13 @@ https://www.zoiper.com/en/voip-softphone/download/current
 </tbody>
 </table>
 
-
 Preencha os campos :
 
-* Nome da conta: 
-* Domain:
-* Nome do Usuário:
-* Password:
-* Caller ID: 
+ * Nome da conta: 
+ * Domain:
+ * Nome do Usuário:
+ * Password:
+ * Caller ID: 
 
 Mantenha os demais campos como estão. esta é a configuração básica para realizar e receber ligações VOIP.
 Pressione o botão "Registrar". Caso as configurações estejam corretas irá aparecer a mensagem : "Status de registro OK". O Softfone estará pronto para uso.
