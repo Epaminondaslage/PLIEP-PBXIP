@@ -9,7 +9,7 @@
 
 ## Aula prática de montagem e configuração de um PBX IP utilizando software de código livre e gratuito. 
 
-## Este repositório está em desenvolvimento. Atualizado em 6 de Outubro de 2023
+## Este repositório está em desenvolvimento. Atualizado em 13 de Outubro de 2023
 
 # Objetivos da aula prática
 
