@@ -160,15 +160,15 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 
 O Laboratório possui uma LAN e um Wi-Fi isolados da rede do CEFETMG por um firewall. Esta rede destina-se apenas à conexâo de equipamentos internos do laboratorio tais como DVR para CFTV, PBXIP e telefores IP para aulas práticas, etc. Utiliza-se as seguinte configurações de rede:
 
-   Rede DHCP 
-   IP: 10.240.240.x onde x varia de 20 a 240
-   Gateway :10.240.240.1
-   Máscara: 255.255.255.0
+Rede DHCP 
+* IP: 10.240.240.x onde x varia de 20 a 240
+* Gateway :10.240.240.1
+* Máscara: 255.255.255.0
 
-   O Wi-Fi do Laboratório é 
+O Wi-Fi do Laboratório é 
 
-   SSID : DEE-Prediais
-   PW   : prediais123
+ * SSID       : DEE-Prediais
+ * Password   : prediais123
 
    ## Esta rede não possui conexão com a Internet
 
