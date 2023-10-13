@@ -445,12 +445,13 @@ O telefone irá restaurar todas as configurações originais. Ele entrará com D
 
 2.Configurar o Telefone no PBX Issabel:
 
-Pode-se configurar o aparelho telefônico pelo teclado do mesmo ou por uma interface web
+Pode-se configurar o aparelho telefônico pelo teclado do mesmo ou por uma interface web. 
 
+Sequencia de passos a serem executados:
 
 * Configuarar o wifi do seu celular para a rede do laboratório (DEE-Prediais/prediais123)
 
-* Abrir o nevegador e carregar o endereço do telefone (aparecerá na opção Menu/1. Ver Estado/IP:xxx.xxx.xxx.xx)
+* Abrir o nevegador e carregar o endereço do telefone (aparecerá na opção Menu/1. Ver Estado/IP:10.240.240.xx)
 
 * Aparecerá a imagem abaixo. Prencha com o usuário e senha. 
 
@@ -476,10 +477,11 @@ Pode-se configurar o aparelho telefônico pelo teclado do mesmo ou por uma inter
 <td style="width: 30%;"><img src="./img/configtel2.jpg" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Parametros de configuraçãp dos telefones IP´s. </td>
+<td style="text-align: center;">Figura xx - Parâmetros de configuração dos telefones IP´s. </td>
 </tr>
 </tbody>
 </table>
+
 
 
 
