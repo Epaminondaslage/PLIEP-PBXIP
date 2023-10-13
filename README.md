@@ -455,10 +455,18 @@ Pode-se configurar o aparelho telefônico pelo teclado do mesmo ou por uma inter
 2.1 configuarar o wifi do seu celular para a rede do laboratório (DEE-Prediais/prediais123)
 2.2 Abrir o nevegador e carregar o endereço do telefone (aparecerá na opção Menu/1. Ver Estado/IP:xxx.xxx.xxx.xx)
 
-2.3 aparecerá 
+2.3 Aparecerá a imagem abaixo. Prencha com o usuário e senha. 
 
-
-
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 30%;"><img src="./img/configtel1.jpg" width="30%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 16 - Zoiper- Softfone free para uso não comercial.</td>
+</tr>
+</tbody>
+</table>
 
 
 
