@@ -13,7 +13,11 @@
 * Proporcionar conhecimentos para a configuração de telefones IP e softphones para celular, permitindo que os alunos adquiram competências valiosas no campo das comunicações VoIP (Voz sobre IP);
 * Conhecer o básico da operação e das facilidades o SW livre Asterisk e a interface gráfica do pbxIP Issabel.
  
-# O que é um sistema de telefonia PBX?
+# O que é um sistema de telefonia PBX IP?
+
+A Telefonia IP ou VoIP (Voz sobre IP) é uma tecnologia que permite realizar chamadas telefônicas sobre uma rede de dados IP como se estivesse utilizando a rede STFC (Sistema de Telefonia Fixa Comutada). Esta tecnologia vem se firmando como a que mais faz convergência devido às novas funções trazidas das redes de dados para a rede de telefonia.
+
+O sucesso da implantação da telefonia IP ocorre na maioria dos casos devido ao baixo preço pago nos serviços de ligação de longa distância e por causa das novas funcionalidades para a telefonia, aumentando a produtividade dos funcionários, além de permitir a convergência de serviços de dados, voz, fax e vídeo numa única rede IP. Aplicativos como Whatsapp, Telegram entre outros utilizam esta tecnologia.
 
 O PBX, ou "Private Branch Exchange", é um sistema de telecomunicações usado em empresas para facilitar a comunicação interna e externa. Tradicionalmente, as empresas empregavam telefones proprietários específicos para se conectar ao PBX, mas a evolução tecnológica levou à adoção predominante de sistemas IP-PBX, baseados em padrões abertos e compatíveis com a tecnologia de Voz sobre IP (VoIP).
 <table border="0">
