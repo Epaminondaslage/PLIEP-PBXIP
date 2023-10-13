@@ -156,6 +156,22 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 </tbody>
 </table>
 
+## Rede Local do Laboratório de Instalações Elétricas Prediais - LIEP
+
+O Laboratório possui uma LAN e um Wi-Fi isolados da rede do CEFETMG por um firewall. Esta rede destina-se apenas à conexâo de equipamentos internos do laboratorio tais como DVR para CFTV, PBXIP e telefores IP para aulas práticas, etc. Utiliza-se as seguinte configurações de rede:
+
+   Rede DHCP 
+   IP: 10.240.240.x onde x varia de 20 a 240
+   Gateway :10.240.240.1
+   Máscara: 255.255.255.0
+
+   O Wi-Fi do Laboratório é 
+
+   SSID : DEE-Prediais
+   PW   : prediais123
+
+   ## Esta rede não possui conexão com a Internet
+
 # Parte Prática
 
 ## 1- Crimpar um conector RJ-45
@@ -404,9 +420,6 @@ https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf
     Certificação Anatel
     Indústria certificada ISO 9001:2008
 
-  
- * Configuração do telefone IP Khomp IPS 300 pelo teclado
-
    <table border="0">
 <tbody>
 <tr>
@@ -418,7 +431,33 @@ https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf
 </tbody>
 </table>
 
-Os telefones deverão ser configurados conforme a tabela :
+  
+ * Configuração do telefone IP Khomp IPS 300
+
+Para configurar os aparelhos IP precisaremos do seu IP,  usuário e senha abaixo: Como configurar Telefone IP 300 Khomp
+
+ Usuário root
+ Senha root
+
+
+1.Inicialmente restaurar configurações de fábrica:
+ * Ligar o telefone à energia e e rede de dados, pressionar a tecla Menu seguindo o procedimento:
+ 
+     menu/3.Config.Telefone/2. Configurações Avançadas/1. Avançado/6. Configuração de fábrica/ok  e aguardar
+
+O telefone irá restaurar todas as configurações originais. Ele entrará com DHCP ativado e irá adquirir um IP da rede. E uma senha.
+
+2.Configurar o Telefone no PBX Issabel:
+
+Pode-se configurar o aparelho telefônico pelo teclado do mesmo ou por uma interface web
+
+
+2.1 configuarar o wifi do seu celular para a rede do laboratório (DEE-Prediais/prediais123)
+2.2 Abrir o nevegador e carregar o endereço do telefone (aparecerá na opção Menu/1. Ver Estado/IP:xxx.xxx.xxx.xx)
+
+2.3 aparecerá 
+
+
 
 
 
