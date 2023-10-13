@@ -313,112 +313,190 @@ https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf
 
 * Modelo IPS 300 - Características
 
-    3 linhas
-    LCD de 128 x 64 pixels
-    Conexão Gigabit Ethernet
-    HD Voice
-    Suporte a PoE (Power Over Ethernet)
-
-* Voz clara
-
-    Abrange a exclusiva tecnologia de processamento de voz que permite chamadas de voz mais realistas e claras e comunicação mais fluente
-
-* Avançado processamento de chamadas
-
-    Suporta um circuito de 2 linhas com luz indicadora de 2 cores, para auxiliar no gerenciamento de linhas simultâneas e fila de chamadas
-    Indicado para teleconferência e transferência de chamadas
-    Suporte a ligações peer-to-peer
-
-* Lista de Contatos
-
-    Suporte a contatos comerciais.
-    Catálogo telefônico particular facilitando a busca por número da chamada.
-  
-* Tela
-  
-    Display LCD gráfico de 128 X 64 pixels
-    Tamanho da tela: 6 x 3 cm
-
-* Idioma
-
-    Português, Espanhol, Inglês e outros
-
-* Teclado de funções
-
-    4 teclas programáveis (via software)
-    3 teclas de linha
-    6 teclas de navegação (botão de seta, botão OK, botão C)
-    Ajuste de volume, viva-voz, interrupção de som (mudo), fone de ouvido, caixa de mensagens, retenção (hold), rediscagem, conferência e transferência.
-
-* Protocolos de Comunicação
-
-    VoIP: Protocolo SIP 2.0
-    Protocolo de rede: HTTP, BOOTP, FTP, TFTP, IEEE 802.1Q
-    Qualidade do Serviço: TOS, Jiffer Buffer, VAD, CNG, G.168 (32ms)
-
-* Decodificação de voz
-
-    Codecs: G.723.1, G.729 A/B, G.711 A/U, G.722
-
-* Rede
-
-    2×RJ45 10/100/1000M Gigabit Ethernet Interfaces (LAN/PC)
-    Atribuição de IP: IP estático, DHCP, PPPoE
-    Cliente DNS, VPN(L2TP), VLAN
-
-* Voz
-
-    Voz HD: HD Codec/Handset/Speaker(Full-duplex)
-    Disponível o modo de alça, fone de ouvido e viva-voz
-    Suporta fones de ouvido PS2 ou RJ9(4P4C)
-    Ajuste separado de volume de 9 níveis
-
-* Processamento de chamadas
-
-    Indicador de status das linhas
-    Sempre encaminhar, encaminhamento ocupado, encaminhamento sem resposta
-    Linha direta (imediatamente/atraso)
-    Chamada em espera, fila de chamadas, comutação de linha
-    Encaminhamento de chamada, transferência de chamada, retenção de chamada, atenção de chamada, retorno de chamada
-    Discagem de uma tecla, rediscagem
-    Discagem rápida diretamente do telefone, discagem direta do registro de chamadas
-    Conferência de 3 vias, SIP MESSAGE (Instant Message)
-    DnD, Lista negra
-    Correio de voz, prompt de voz, mensagem de voz
-    BLF, BLA, discagem rápida
-
-* Aplicativos
-
-    Catálogo telefônico público, particular e em XML.
-    Suporte para parede ajustável.
-
-* Segurança
-
-    Login no LCD e no site mediante senha.
-    Codificação da sinalização e de mídias.
-
-* Gerenciamento
-
-    Atualização: HTTP/TFTP/FTP Auto-provisão/TR069
-    Configurações: Telefone/Web/ Auto-provisão/TR069
-    Depuração: Telnet/Telefone/Web
-
-* Alimentação
-
-    Adaptador de energia: entrada CA100~240V e saída CC 5V/1A 
-    PoE (IEEE 802.af)
-
-* Especificações
-
-    Temperatura de armazenamento: 0ºC ~ 60ºC
-    Umidade na operação: 10%~90%
-    Tamanho: 191 x 205 x 51 mm
-    Peso líquido: 800g
-
-* Certificações
-
-    Certificação Anatel
-    Indústria certificada ISO 9001:2008
+<table cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:none; margin-left:48px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:15px; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Calibri&quot;,sans-serif">Modelo IPS 300 - Caracter&iacute;sticas</span></strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">3 linhas LCD de 128 x 64 pixels</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Conex&atilde;o Gigabit Ethernet HD Voice Suporte a PoE (Power Over Ethernet)</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Abrange a exclusiva tecnologia de processamento de voz que permite chamadas de voz mais realistas e claras e comunica&ccedil;&atilde;o mais fluente</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Avan&ccedil;ado processamento de chamadas</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Suporta um circuito de 2 linhas com luz indicadora de 2 cores, para auxiliar no gerenciamento de linhas simult&acirc;neas e fila de chamadas Indicado para teleconfer&ecirc;ncia e transfer&ecirc;ncia de chamadas Suporte a liga&ccedil;&otilde;es peer-to-peer</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Lista de Contatos</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Suporte a contatos comerciais. Cat&aacute;logo telef&ocirc;nico particular facilitando a busca por n&uacute;mero da chamada.</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Tela</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Display LCD gr&aacute;fico de 128 X 64 pixels Tamanho da tela: 6 x 3 cm</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Idioma</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Portugu&ecirc;s, espanhol, ingl&ecirc;s e outros</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Teclado de fun&ccedil;&otilde;es</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">4 teclas program&aacute;veis (via software) 3 teclas de linha 6 teclas de navega&ccedil;&atilde;o (bot&atilde;o de seta, bot&atilde;o OK, bot&atilde;o C) Ajuste de volume, viva-voz, interrup&ccedil;&atilde;o de som (mudo), fone de ouvido, caixa de mensagens, reten&ccedil;&atilde;o (hold), rediscagem, confer&ecirc;ncia e transfer&ecirc;ncia.</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Protocolos de Comunica&ccedil;&atilde;o</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">VoIP: Protocolo SIP 2.0 Protocolo de rede: HTTP, BOOTP, FTP, TFTP, IEEE 802.1Q Qualidade do Servi&ccedil;o: TOS, Jiffer Buffer, VAD, CNG, G.168 (32ms)</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Decodifica&ccedil;&atilde;o de voz</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Codecs: G.723.1, G.729 A/B, G.711 A/U, G.722</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Rede</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">2&times;RJ45 10/100/1000M Gigabit Ethernet Interfaces (LAN/PC) Atribui&ccedil;&atilde;o de IP: IP est&aacute;tico, DHCP, PPPoE Cliente DNS, VPN(L2TP), VLAN</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Voz</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Voz HD: HD Codec/Handset/Speaker(Full-duplex) Dispon&iacute;vel o modo de al&ccedil;a, fone de ouvido e viva-voz Suporta fones de ouvido PS2 ou RJ9(4P4C) Ajuste separado de volume de 9 n&iacute;veis</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Processamento de chamadas</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Indicador de status das linhas Sempre encaminhar, encaminhamento ocupado, encaminhamento sem resposta Linha direta (imediatamente/atraso) Chamada em espera, fila de chamadas, comuta&ccedil;&atilde;o de linha Encaminhamento de chamada, transfer&ecirc;ncia de chamada, reten&ccedil;&atilde;o de chamada, aten&ccedil;&atilde;o de chamada, retorno de chamada Discagem de uma tecla, rediscagem Discagem r&aacute;pida diretamente do telefone, discagem direta do registro de chamadas Confer&ecirc;ncia de 3 vias, SIP MESSAGE (Instant Message) DnD, Lista negra Correio de voz, prompt de voz, mensagens de voz BLF, BLA, discagem r&aacute;pida</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Aplicativos</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Cat&aacute;logo telef&ocirc;nico p&uacute;blico, particular e em XML. Suporte para parede ajust&aacute;vel.</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Seguran&ccedil;a</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Login no LCD e no site mediante senha. Codifica&ccedil;&atilde;o da sinaliza&ccedil;&atilde;o e de m&iacute;dias.</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Gerenciamento</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Atualiza&ccedil;&atilde;o: HTTP/TFTP/FTP Auto-provis&atilde;o/TR069 Configura&ccedil;&otilde;es: Telefone/Web/ Auto-provis&atilde;o/TR069 Depura&ccedil;&atilde;o: Telnet/Telefone/Web</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Alimenta&ccedil;&atilde;o</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Adaptador de energia: entrada CA100~240V e sa&iacute;da CC 5V/1A PoE (IEEE 802.af)</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Especifica&ccedil;&otilde;es</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Temperatura de armazenamento: 0&ordm;C ~ 60&ordm;C Umidade na opera&ccedil;&atilde;o: 10%~90% Tamanho: 191 x 205 x 51 mm Peso l&iacute;quido: 800g</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Certifica&ccedil;&otilde;es</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:566px">
+			<p><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Certifica&ccedil;&atilde;o Anatel Ind&uacute;stria certificada ISO 9001:2008</span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
    <table border="0">
 <tbody>
