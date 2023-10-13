@@ -461,10 +461,10 @@ Sequencia de passos a serem executados:
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="./img/configtel1.jpg" width="30%" /></td>
+<td style="width: 40%;"><img src="./img/configtel1.jpg" width="40%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Lela de login do telefone IP </td>
+<td style="text-align: center;">Figura 16 - Lela de login do telefone IP </td>
 </tr>
 </tbody>
 </table>
@@ -474,17 +474,26 @@ Sequencia de passos a serem executados:
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="./img/configtel2.jpg" width="30%" /></td>
+<td style="width: 40%;"><img src="./img/configtel2.jpg" width="40%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura xx - Parâmetros de configuração dos telefones IP´s. </td>
+<td style="text-align: center;">Figura 17 - Parâmetros de configuração dos telefones IP´s. </td>
 </tr>
 </tbody>
 </table>
 
+Parâmetros de configuração dos telefones IP´s
 
-
-
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="./img/configtelip.png" width="50%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 18 - Tabela de parâmetros de conta SIP dos telefones IP´s. </td>
+</tr>
+</tbody>
+</table>
 
 ## 4- Softfone Zoiper no celular
 
@@ -506,7 +515,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/Zoiper.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 16 - Zoiper- Softfone free para uso não comercial.</td>
+<td style="text-align: center;">Figura 19 - Zoiper- Softfone free para uso não comercial.</td>
 </tr>
 </tbody>
 </table>
@@ -518,7 +527,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper1.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 17 - Zoiper- Tela inicial.</td>
+<td style="text-align: center;">Figura 20 - Zoiper- Tela inicial.</td>
 </tr>
 </tbody>
 </table>
@@ -530,7 +539,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper2.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 18 - Zoiper- Menu de configurações.</td>
+<td style="text-align: center;">Figura 21 - Zoiper- Menu de configurações.</td>
 </tr>
 </tbody>
 </table>
@@ -542,7 +551,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper3.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 19 - Zoiper- Tela de criação de contas de usuários.</td>
+<td style="text-align: center;">Figura 22 - Zoiper- Tela de criação de contas de usuários.</td>
 </tr>
 </tbody>
 </table>
@@ -554,7 +563,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper4.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 20 - Zoiper- Configuração manual da "Conta".</td>
+<td style="text-align: center;">Figura 23 - Zoiper- Configuração manual da "Conta".</td>
 </tr>
 </tbody>
 </table>
@@ -567,7 +576,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper5.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 21 - Zoiper- Menu de tipos de "Contas".</td>
+<td style="text-align: center;">Figura 24 - Zoiper- Menu de tipos de "Contas".</td>
 </tr>
 </tbody>
 
@@ -580,7 +589,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 <td style="width: 30%;"><img src="./img/zoiper6.png" width="30%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 22 - Configurações da "Conta SIP".</td>
+<td style="text-align: center;">Figura 25 - Configurações da "Conta SIP".</td>
 </tr>
 </tbody>
 </table>
@@ -608,7 +617,7 @@ Após a crimpagem dos conectores e testes de funcionamento dos mesmos, deve-se i
 <td style="width: 100%;"><img src="./img/conexao-de-rede.png" width="120%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 23 - Montagem dos equipamentos e cabeamento de rede.</td>
+<td style="text-align: center;">Figura 26 - Montagem dos equipamentos e cabeamento de rede.</td>
 </tr>
 </tbody>
 </table>
