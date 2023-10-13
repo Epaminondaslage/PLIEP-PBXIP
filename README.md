@@ -551,8 +551,8 @@ Após a crimpagem dos conectores e testes de funcionamento dos mesmos, deve-se i
 
 Uma vez instalado e configurado o app zoipper, troque a rede de WI-FI do celular para:
 
- * SSID : PLIEP
- * Senha: EL#C#F#T
+ * SSID :DEE-Prediais
+ * Senha: prediais123
 
 Abra o app zoipper e faça os testes de conexão.
 
