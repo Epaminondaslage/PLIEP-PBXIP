@@ -117,7 +117,7 @@ Issabel é uma plataforma de comunicações de voz e dados, de código aberto, b
 
 O Issabel é uma escolha popular para empresas que desejam implementar sistemas de comunicações avançados, especialmente aquelas que procuram uma solução baseada em Asterisk com uma interface de gerenciamento amigável. Ele oferece um conjunto de recursos abrangente e pode ser personalizado de acordo com as necessidades específicas de cada organização.
 
- ## PBXIP Issabel esta instalado em um servidor Linux no IP 10.240.240.10. Este IP somente é acessível através da rede do Laboratório de Instalações Prediais ou pelo WI-FI DEE-Prediais
+ ## PBXIP Issabel está instalado em um servidor Linux no IP 10.240.240.10. Este IP somente é acessível através da rede do Laboratório de Instalações Prediais ou pelo WI-FI DEE-Prediais
  
 # Infraestrutura de Hardware do laboratório
 
@@ -132,7 +132,7 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 * conectores RJ45;
 * Testador de cabos UT
 * alicate  para crimpagem de conextores RJ45 e RJ11 e
-* roteador MIKROTIK RB 951UI e WIFE  DDE-Prediais
+* roteador MIKROTIK RB 951UI e WIFE  DEE-Prediais
 
 <table border="0">
 <tbody>
