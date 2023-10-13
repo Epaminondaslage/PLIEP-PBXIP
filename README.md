@@ -311,8 +311,6 @@ https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf
 </tbody>
 </table>
 
-* Modelo IPS 300 - Características
-
 <table cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:none; margin-left:48px">
 	<tbody>
 		<tr>
@@ -510,7 +508,7 @@ https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf
 </table>
 
   
- * Configuração do telefone IP Khomp IPS 300
+ ## Configuração do telefone IP Khomp IPS 300
 
 Para configurar os aparelhos IP precisaremos do seu IP,  usuário e senha. Veja como configurar Telefone IP 300 Khomp
 
@@ -560,7 +558,7 @@ Sequencia de passos a serem executados:
 </tbody>
 </table>
 
-Parâmetros de configuração dos telefones IP´s
+## Parâmetros de configuração dos telefones IP´s
 
 <table border="0">
 <tbody>
@@ -645,7 +643,6 @@ https://www.zoiper.com/en/voip-softphone/download/current
 </tr>
 </tbody>
 </table>
-
 
 * Escolha o tipo de Conta SIP
 <table border="0">
