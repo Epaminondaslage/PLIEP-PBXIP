@@ -26,7 +26,7 @@ O PBX, ou "Private Branch Exchange", é um sistema de telecomunicações usado e
 <td style="width: 50%;"><img src="./img/pbx.png" width="50%" /></td>
 </tr>
 <tr>
-<td style="text-align: center;">Figura 1 - PbX IP - Aplicações e usos</td>
+<td style="text-align: center;">Figura 1 - PBXIP - Aplicações e usos</td>
 </tr>
 </tbody>
 </table>
