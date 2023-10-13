@@ -126,12 +126,13 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 * 01 servidor intel, com 4Gb de menória e 1 TB de disco rígido onde está instalado o sistema operacional Linux e a plataforma de sw Issabel;
 * 05 telefones IP marca  Khomp IP300;
 * 01 switch de 8 portas RJ45 de 10/100/1000 mbps;
-* 01 roteador WIFI Mikrotik RB 433;
 * 01 monitor de vídeo 14";
 * 01 teclado;
 * cabos UTP cat 5;
-* conectores RJ45 e
-* alicate  para crimpagem de conextores RJ45 e RJ11.
+* conectores RJ45;
+* Testador de cabos UT
+* alicate  para crimpagem de conextores RJ45 e RJ11 e
+* roteador MIKROTIK RB 951UI e WIFE  DDE-Prediais
 
 <table border="0">
 <tbody>
@@ -157,7 +158,7 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 
 # Parte Prática
 
-## Crimpar um conector RJ-45
+## 1- Crimpar um conector RJ-45
 
 É um processo importante para criar cabos de rede Ethernet. A crimpagem envolve a fixação dos fios dentro do conector de forma que eles estejam devidamente alinhados e conectados aos pinos internos.
 
@@ -264,7 +265,7 @@ Dois padrões de T568A e T568B podem ser usados ​​para conectar cabos Ethern
 </tbody>
 </table>
 
-## Testar o funcionamento dos cabos/conectores RJ-45
+## 2- Testar o funcionamento dos cabos/conectores RJ-45
 
 O testador eletrônico de cabeamento de redes de computador e telefonia é uma ferramenta de medição que visa o bom funcionamento do cabo de acordo com as especificações técnicas em rede de computadores e redes telefônicas. Para executar o teste, conecte os cabos no testador principal e no testador remoto. Ligue a chave de alimentação. As luzes dos dois testadores ligam indicando quais circuitos estão ativos.
 
@@ -279,7 +280,7 @@ O testador eletrônico de cabeamento de redes de computador e telefonia é uma f
 </tbody>
 </table>
 
-## Aparelhos telefonicos IP Khomp IPS 300
+## 3- Aparelhos telefonicos IP Khomp IPS 300
 
 https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf 
 
@@ -422,7 +423,9 @@ Os telefones deverão ser configurados conforme a tabela :
 
 
 
-## Softfone Zoiper no celular
+
+
+## 4- Softfone Zoiper no celular
 
 Softphone é um software possível fazer chamadas telefônicas pela Internet. Os dispositivos mais comuns para uso do Softphone são: computador, notebook, tablet ou um smartphone, que permite ao usuário efetuar e receber chamadas sem precisar de um telefone convencional.
 
