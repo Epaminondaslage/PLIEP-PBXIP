@@ -717,7 +717,7 @@ Após a crimpagem dos conectores e testes de funcionamento dos mesmos, deve-se i
 </tbody>
 </table>
 
-##6-Conexão dos celulares ao WI-FI do Laboratório
+## 6-Conexão dos celulares ao WI-FI do Laboratório
 
 Uma vez instalado e configurado o app zoipper, troque a rede de WI-FI do celular para:
 
@@ -727,7 +727,7 @@ Uma vez instalado e configurado o app zoipper, troque a rede de WI-FI do celular
 Abra o app zoipper e faça os testes de conexão.
 
 
-##7-Realizar os testes do PBX
+## 7-Realizar os testes de funcionamento no PBX
 
 Descrever os testes a serem feitos.
 
