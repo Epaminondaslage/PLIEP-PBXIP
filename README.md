@@ -2,7 +2,9 @@
  <td style="width: 20%;"><img src="/img/banner.png" width="100%"></td>
 
 **Departamento de Engenharia Elétrica do CEFET-MG Campus NG**
+
 **Coordenação do Curso Técnico de Eletrotécnica**
+
 **Laboratório de Instalações Elétricas Prediais - PLIEP**
 
 **Aula prática: Montagem e configuração de uma rede local com telefonesIP,Softfone em celulares e um PBX IP utilizando software de código livre e gratuito.**
