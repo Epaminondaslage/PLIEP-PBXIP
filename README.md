@@ -1,5 +1,4 @@
-
- <td style="width: 20%;"><img src="/img/banner.png" width="100%"></td>
+<td style="width: 20%;"><img src="/img/banner.png" width="100%"></td>
 
 **Departamento de Engenharia Elétrica do CEFET-MG Campus NG**
 
@@ -7,15 +6,17 @@
 
 **Laboratório de Instalações Elétricas Prediais - PLIEP**
 
-**Aula prática: Montagem e configuração de uma rede local com telefonesIP,Softfone em celulares e um PBX IP utilizando software de código livre e gratuito.**
+**Aula Prática:** Montagem e configuração de uma rede local com telefonesIP,Softfone em celulares e um PBX IP utilizando software de código livre e gratuito.
 
 # Objetivos da aula prática
 
-* Capacitar os alunos a desenvolver habilidades práticas na montagem de cabos UTP-CAT5 com conectores RJ-45 para estabelecer a rede Ethernet, viabilizando a interligação de equipamentos;
-* Proporcionar conhecimentos para a configuração de telefones IP e softphones para celular, permitindo que os alunos adquiram competências valiosas no campo das comunicações VoIP (Voz sobre IP);
-* Conhecer o básico da operação e das facilidades o SW livre Asterisk e a interface gráfica do pbxIP Issabel.
+1. Capacitar os alunos a desenvolver habilidades práticas na montagem de cabos UTP-CAT5 com conectores RJ-45 para estabelecer a rede Ethernet, viabilizando a interligação de equipamentos;
+1. Proporcionar conhecimentos para a configuração de telefones IP e softphones para celular, permitindo que os alunos adquiram competências valiosas no campo das comunicações VoIP (Voz sobre IP);
+1. Conhecer o básico da operação e das facilidades o SW livre Asterisk e a interface gráfica do PbxIP Issabel.
+
+# Parte teórica
  
-# O que é um sistema de telefonia PBX IP?
+**O que é um sistema de telefonia PBX IP?**
 
 A Telefonia IP ou VoIP (Voz sobre IP) é uma tecnologia que permite realizar chamadas telefônicas sobre uma rede de dados IP como se estivesse utilizando a rede STFC (Sistema de Telefonia Fixa Comutada). Esta tecnologia vem se firmando como a que mais faz convergência devido às novas funções trazidas das redes de dados para a rede de telefonia.
 
@@ -37,7 +38,7 @@ Os sistemas PBX, são projetados para automatizar e simplificar o gerenciamento 
 
 PBXIP utiliza a automação e a tecnologia IP para otimizar a gestão das chamadas telefônicas em empresas, oferecendo recursos avançados para melhorar a eficiência nas comunicações internas e externas.
 
-# O que é VOIP?
+**O que é VOIP?**
 
 <table border="0">
 <tbody>
@@ -49,15 +50,16 @@ PBXIP utiliza a automação e a tecnologia IP para otimizar a gestão das chamad
 </tr>
 </tbody>
 </table>
+
 VoIP é a sigla para "Voz sobre Protocolo de Internet" (Voice over Internet Protocol, em inglês). Trata-se de uma tecnologia que permite a transmissão de voz e outros tipos de comunicação de áudio e vídeo pela Internet, em vez de usar circuitos telefônicos tradicionais. Em outras palavras, o VoIP permite fazer chamadas telefônicas e conduzir videoconferências usando a infraestrutura de rede da Internet.
 
 A principal vantagem do VoIP é a economia de custos em comparação com as chamadas telefônicas tradicionais, pois utiliza a infraestrutura de Internet já existente. Além disso, o VoIP oferece recursos avançados, como encaminhamento de chamadas, correio de voz, conferências e a capacidade de integrar facilmente a comunicação com outros aplicativos e serviços online.
 
 Para usar o VoIP, você precisa de um serviço VoIP, o WhatsApp por exemplo ou um dispositivo compatível, como um computador, smartphone, tablet ou telefone IP. A voz é convertida em pacotes de dados digitais e transmitida pela Internet para o destinatário, onde é convertida de volta em áudio. Essa tecnologia tornou-se amplamente popular para chamadas de longa distância, videoconferências, chamadas internacionais e comunicações pessoais ou empresariais devido à sua eficiência e custos reduzidos.
 
-# O Asterisk
+**O Asterisk**
 
-https://github.com/asterisk/asterisk
+[https://github.com/asterisk/asterisk]()
 
 <table border="0">
 <tbody>
@@ -69,21 +71,26 @@ https://github.com/asterisk/asterisk
 </tr>
 </tbody>
 </table>
+
 O Asterisk é um software de código aberto que desempenha um papel fundamental na implementação de sistemas de telecomunicações baseados em VoIP (Voz sobre Protocolo de Internet) e comunicações unificadas. Ele foi originalmente desenvolvido por Mark Spencer e lançado em 1999 como um projeto de código aberto. Desde então, tornou-se uma das plataformas mais populares e versáteis para a construção de sistemas de PBX e mensagens unificadas.
 
-## Caracteristicas básicas do Asterisk:
+**Caracteristicas básicas do Asterisk:**
 
-   * Plataforma de Comunicações Aberta: O Asterisk é altamente flexível e personalizável, o que o torna adequado para uma ampla variedade de aplicações de telecomunicações. Ele pode ser usado para criar sistemas PBX (Private Branch Exchange), gateways VoIP, sistemas de conferência, correio de voz, IVR (Interactive Voice Response), entre outros.
-   * Suporte a Protocolos: O Asterisk suporta uma variedade de protocolos de comunicação, incluindo SIP (Session Initiation Protocol), H.323, IAX (Inter-Asterisk eXchange), PSTN (Rede Telefônica Pública Comutada), e muitos outros. Isso permite a interoperabilidade com uma ampla gama de dispositivos e serviços de comunicação.
-   * Recursos Avançados: Além de funções telefônicas básicas, o Asterisk oferece recursos avançados, como roteamento de chamadas, gravação de chamadas, encaminhamento de chamadas, videoconferência, detecção de fax, autenticação de chamadas, entre outros.
-   * Comunidade Ativa: O Asterisk é mantido por uma comunidade de desenvolvedores ativos e tem uma grande base de usuários em todo o mundo. Isso significa que há suporte contínuo, atualizações regulares e uma variedade de módulos e extensões disponíveis.
-   * Comunicações Unificadas: O Asterisk também pode ser integrado a outras soluções de comunicação, como e-mail, mensagens instantâneas e calendários, para criar sistemas de comunicações unificadas que consolidam diferentes canais de comunicação em uma única plataforma.
+* **Plataforma de Comunicações Aberta:** O Asterisk é altamente flexível e personalizável, o que o torna adequado para uma ampla variedade de aplicações de telecomunicações. Ele pode ser usado para criar sistemas PBX (Private Branch Exchange), gateways VoIP, sistemas de conferência, correio de voz, IVR (Interactive Voice Response), entre outros.
+
+* **Suporte a Protocolos:** O Asterisk suporta uma variedade de protocolos de comunicação, incluindo SIP (Session Initiation Protocol), H.323, IAX (Inter-Asterisk eXchange), PSTN (Rede Telefônica Pública Comutada), e muitos outros. Isso permite a interoperabilidade com uma ampla gama de dispositivos e serviços de comunicação.
+
+* **Recursos Avançados:** Além de funções telefônicas básicas, o Asterisk oferece recursos avançados, como roteamento de chamadas, gravação de chamadas, encaminhamento de chamadas, videoconferência, detecção de fax, autenticação de chamadas, entre outros.
+
+* **Comunidade Ativa:** O Asterisk é mantido por uma comunidade de desenvolvedores ativos e tem uma grande base de usuários em todo o mundo. Isso significa que há suporte contínuo, atualizações regulares e uma variedade de módulos e extensões disponíveis.
+
+* **Comunicações Unificadas:** O Asterisk também pode ser integrado a outras soluções de comunicação, como e-mail, mensagens instantâneas e calendários, para criar sistemas de comunicações unificadas que consolidam diferentes canais de comunicação em uma única plataforma.
 
 O Asterisk é amplamente utilizado por empresas de todos os tamanhos para implementar sistemas de telecomunicações personalizados e eficientes. Sua versatilidade, juntamente com sua natureza de código aberto, o torna uma escolha popular para muitos projetos de comunicação empresarial e VoIP.
 
-# O ISSABEL
+**O ISSABEL**
 
-https://github.com/IssabelFoundation
+[https://github.com/IssabelFoundation]()
 
 <table border="0">
 <tbody>
@@ -98,13 +105,17 @@ https://github.com/IssabelFoundation
 
 Issabel é uma plataforma de comunicações de voz e dados, de código aberto, baseada no software Asterisk. Ela fornece um conjunto abrangente de recursos para usuários que desejam implementar sistemas de telecomunicações avançados, como PBX (Private Branch Exchange), serviços de telefonia IP (VoIP) e comunicações unificadas. Issabel é conhecido por ser uma distribuição do Asterisk que facilita a configuração e a gestão de sistemas de comunicação.
 
-## Características básicas do Issabel:
+**Características básicas do Issabel:**
 
- * Baseado no Asterisk: Issabel usa o Asterisk como núcleo de comunicação. Ele inclui todas as capacidades do Asterisk, permitindo que as empresas configurem uma ampla gama de serviços de telefonia e comunicações.
- * Interface de Gerenciamento: Uma das características fundamentais do Issabel é sua interface de gerenciamento web amigável e de fácil utilização. Isso torna a configuração e a manutenção do sistema mais acessíveis para administradores de TI e usuários.
- * Recursos Avançados: O Issabel oferece recursos avançados, como roteamento de chamadas, correio de voz, videoconferência, IVR (Interactive Voice Response), relatórios detalhados, autenticação de chamadas e muito mais. Isso o torna uma solução completa para as necessidades de comunicação de uma empresa.
- * Comunicações Unificadas: Além das funcionalidades telefônicas tradicionais, o Issabel pode ser integrado a outras ferramentas de comunicação, como e-mail e mensagens instantâneas, para criar sistemas de comunicações unificadas que consolidam diferentes formas de comunicação.
- * Código Aberto: Assim como o Asterisk, o Issabel é uma solução de código aberto, o que significa que é possível personalizá-lo e adaptá-lo às necessidades específicas da empresa. Isso também contribui para a economia de custos, pois não requer a compra de licenças de software.
+ * **Baseado no Asterisk:** Issabel usa o Asterisk como núcleo de comunicação. Ele inclui todas as capacidades do Asterisk, permitindo que as empresas configurem uma ampla gama de serviços de telefonia e comunicações.
+
+ * **Interface de Gerenciamento:** Uma das características fundamentais do Issabel é sua interface de gerenciamento web amigável e de fácil utilização. Isso torna a configuração e a manutenção do sistema mais acessíveis para administradores de TI e usuários.
+ 
+ * **Recursos Avançados:** O Issabel oferece recursos avançados, como roteamento de chamadas, correio de voz, videoconferência, IVR (Interactive Voice Response), relatórios detalhados, autenticação de chamadas e muito mais. Isso o torna uma solução completa para as necessidades de comunicação de uma empresa.
+
+ * **Comunicações Unificadas:** Além das funcionalidades telefônicas tradicionais, o Issabel pode ser integrado a outras ferramentas de comunicação, como e-mail e mensagens instantâneas, para criar sistemas de comunicações unificadas que consolidam diferentes formas de comunicação.
+ 
+ * **Código Aberto:** Assim como o Asterisk, o Issabel é uma solução de código aberto, o que significa que é possível personalizá-lo e adaptá-lo às necessidades específicas da empresa. Isso também contribui para a economia de custos, pois não requer a compra de licenças de software.
 
 <table border="0">
 <tbody>
@@ -119,9 +130,9 @@ Issabel é uma plataforma de comunicações de voz e dados, de código aberto, b
 
 O Issabel é uma escolha popular para empresas que desejam implementar sistemas de comunicações avançados, especialmente aquelas que procuram uma solução baseada em Asterisk com uma interface de gerenciamento amigável. Ele oferece um conjunto de recursos abrangente e pode ser personalizado de acordo com as necessidades específicas de cada organização.
 
- ## PBXIP Issabel está instalado em um servidor Linux no IP 10.240.240.10. Este IP somente é acessível através da rede do Laboratório de Instalações Prediais ou pelo WI-FI DEE-Prediais
+**PBXIP Issabel está instalado em um servidor Linux no IP 10.240.240.10. Este IP somente é acessível através da rede do Laboratório de Instalações Prediais ou pelo WI-FI DEE-Prediais**
  
-# Infraestrutura de hardware do laboratório
+## Infraestrutura de hardware do laboratório
 
 O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, possui os segintes equipamentos destinados a esta atividade:
 
@@ -132,8 +143,8 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 * 01 teclado;
 * cabos UTP cat 5;
 * conectores RJ45;
-* Testador de cabos UT
-* alicate  para crimpagem de conextores RJ45 e RJ11 e
+* testador de cabos UTP;
+* alicate  para crimpagem de conextores RJ45, RJ11 e
 * roteador MIKROTIK RB 951UI e WIFE  DEE-Prediais
 
 <table border="0">
@@ -158,21 +169,25 @@ O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, poss
 </tbody>
 </table>
 
-## Rede Local do Laboratório de Instalações Elétricas Prediais - LIEP
+**Rede Local do Laboratório de Instalações Elétricas Prediais - LIEP**
 
 O Laboratório possui uma LAN e um Wi-Fi isolados da rede do CEFETMG por um firewall. Esta rede destina-se apenas à conexâo de equipamentos internos do laboratorio tais como DVR para CFTV, PBXIP e telefores IP para aulas práticas, etc. Utiliza-se as seguinte configurações de rede:
 
-Rede DHCP 
-* IP: 10.240.240.x onde x varia de 20 a 240
-* Gateway :10.240.240.1
-* Máscara: 255.255.255.0
+**Rede DHCP** 
 
-O Wi-Fi do Laboratório é 
+ `IP: 10.240.240.x onde x varia de 20 a 240`
+ 
+ `Gateway :10.240.240.1`
+ 
+ `Máscara: 255.255.255.0`
 
- * SSID       : DEE-Prediais
- * Password   : prediais123
+**O Wi-Fi do Laboratório**
 
-   ## Esta rede não possui conexão com a Internet
+ `SSID       : DEE-Prediais`
+ 
+ `Password   : prediais123`
+
+**Esta rede não possui conexão com a Internet**
 
 # Parte Prática
 
@@ -180,7 +195,8 @@ O Wi-Fi do Laboratório é
 
 É um processo importante para criar cabos de rede Ethernet. A crimpagem envolve a fixação dos fios dentro do conector de forma que eles estejam devidamente alinhados e conectados aos pinos internos.
 
-## Materiais Necessários:
+**Materiais Necessários:**
+
  * Cabo de rede (geralmente U/FTP, U/UTP, FTP ou STP, com 4 pares de fios)
  * Conectores RJ-45
  * Ferramenta de decapagem de cabos ou um estilete
@@ -188,9 +204,9 @@ O Wi-Fi do Laboratório é
  * Diagrama de pinagem (para garantir que os fios estejam na ordem correta)
  * Alicate para crimpagem de conectores RJ45
 
-## Ferramentas necessárias
+**Ferramentas necessárias**
 
-* Alicate de crimpar Multi função, corta fio para conectores de passagem EZ Crimp RJ45 RJ12 RJ11
+* **Alicate de crimpar Multi função:** Corta fio para conectores de passagem EZ Crimp RJ45 RJ12 RJ11
 <table border="0">
 <tbody>
 <tr>
@@ -202,7 +218,7 @@ O Wi-Fi do Laboratório é
 </tbody>
 </table>
  
-* O RJ45 (Registered Jack 45) é um dos principais conectores utilizado para ligar placas de rede Ethernet a ativos como switchs, roteadores, etc.
+* **O RJ45:** O Registered Jack 45 é um dos principais conectores utilizado para ligar placas de rede Ethernet a ativos como switchs, roteadores, etc.
 <table border="0">
 <tbody>
 <tr>
@@ -214,17 +230,17 @@ O Wi-Fi do Laboratório é
 </tbody>
 </table>
 
-* O cabo de rede cat5e foi desenvolvido para suportar velocidades de até 1.000 Mbps, reduzir a interferência da infraestrutura e minimizar a perda de sinal.
+* **Cabo de rede cat5e:** Foi desenvolvido para suportar velocidades de até 1.000 Mbps, reduzir a interferência da infraestrutura e minimizar a perda de sinal.
 Essas melhorias possibilitaram o uso de cabos mais longos, quase próximos dos atuais 100 metros permitidos. Por isso, é indicado para instalações domésticas e corporativas.
 
-* Cabos metálicos utilizados para rede de dados
+* **Cabos metálicos utilizados para rede de dados**
 
 Nos cabos metálicos de par trançado, há algumas classificações importantes: 
 
-* U/UTP (Unshielded Twisted Pair): Cabo Par Trançado Não Blindado.Cabos sem blindagem geralmente são mais flexíveis e fáceis de crimpar. Por esse motivo, são mais em conta e populares no mercado. entretanto existem outros conforme a blindagem.
-* FTP (Foiled Twisted Pair): São cabos os que utilizam uma blindagem mais simples: de fina folha de aço ou de liga de alumínio, elementos que envolvem todos os pares do cabo, protegendo-os contra interferências externas.
-* STP (Shielded Twisted Pair): Este cabo de rede utiliza uma blindagem individual para cada par de cabos. Isso reduz o crosstalk e melhora a tolerância do cabo de rede com relação à distância, o que pode ser usado em situações em que for necessário crimpar cabos fora do padrão, com mais de 100 metros.
-* SFTP (Screened Foiled Twisted Pair): Os cabos desse tipo combinam a blindagem individual para cada par de cabos com uma segunda blindagem externa, que envolve todas as tranças, o que os torna especialmente resistentes a interferências externas. Por isso, cabos SFTP são mais adequados a ambientes com grande incidência de distorção.
+* **U/UTP (Unshielded Twisted Pair):** Cabo Par Trançado Não Blindado.Cabos sem blindagem geralmente são mais flexíveis e fáceis de crimpar. Por esse motivo, são mais em conta e populares no mercado. entretanto existem outros conforme a blindagem.
+* **FTP (Foiled Twisted Pair):** São cabos os que utilizam uma blindagem mais simples: de fina folha de aço ou de liga de alumínio, elementos que envolvem todos os pares do cabo, protegendo-os contra interferências externas.
+* **STP (Shielded Twisted Pair):** Este cabo de rede utiliza uma blindagem individual para cada par de cabos. Isso reduz o crosstalk e melhora a tolerância do cabo de rede com relação à distância, o que pode ser usado em situações em que for necessário crimpar cabos fora do padrão, com mais de 100 metros.
+* **SFTP (Screened Foiled Twisted Pair):** Os cabos desse tipo combinam a blindagem individual para cada par de cabos com uma segunda blindagem externa, que envolve todas as tranças, o que os torna especialmente resistentes a interferências externas. Por isso, cabos SFTP são mais adequados a ambientes com grande incidência de distorção.
 
 Geralmente os cabos são compostos por condutores de cobre puro recozido de 0,55mm (24 AWG) de diâmetro nominal, isolados com polietileno sólido. No núcleo, uma capa de PVC, com o intuito de retardar a propagação de chamas em caso de incêndios, é aplicada por meio do processo de extrusão para garantir a segurança necessária em qualquer projeto.
 
@@ -239,22 +255,20 @@ Geralmente os cabos são compostos por condutores de cobre puro recozido de 0,55
 </tbody>
 </table>
 
-## Sequência de Passos
+**Sequência de Passos**
 
-   * Preparação dos Fios:
+   * **Preparação dos Fios:**
         Decape cerca de 2-3 cm da capa externa do cabo usando uma ferramenta de decapagem ou um estilete. Certifique-se de não danificar os fios internos.
         Organize os pares de fios na ordem correta. A ordem geralmente é T568B ou T568A, dependendo da configuração da rede. Certifique-se de usar a mesma ordem nos dois lados do cabo (conector RJ-45).
-   * Corte os Fios Excedentes (Opcional):
+   * **Corte os Fios Excedentes (Opcional):**
         Se os fios internos estiverem muito compridos, você pode cortar o excesso com uma ferramenta de corte para que fiquem aproximadamente alinhados com a parte traseira do conector RJ-45.
-   * Inserção dos Fios no Conector:
+   * **Inserção dos Fios no Conector:**
        Insira os fios na ordem correta nos pinos do conector RJ-45. Certifique-se de que os fios estejam bem encaixados nos pinos.
-   * Crimpagem:
-        Insira o conector RJ-45 com os fios no alicate de crimpagem RJ-45.
-        Aperte o alicate com firmeza e certifique-se de que ele esteja completamente fechado. Isso fará com que os contatos metálicos no conector pressionem os fios com força, criando uma conexão sólida.
-   * Verificação:
-        Após a crimpagem, verifique visualmente se os fios estão corretamente alinhados e conectados aos pinos.
-        Use um verificador de cabo ou um testador de cabo para verificar se a conexão está funcionando corretamente. Isso é especialmente importante para garantir que não haja fios cruzados ou mal conectados.
-    * Repetição do Processo:
+   * **Crimpagem:**
+        Insira o conector RJ-45 com os fios no alicate de crimpagem RJ-45. Aperte o alicate com firmeza e certifique-se de que ele esteja completamente fechado. Isso fará com que os contatos metálicos no conector pressionem os fios com força, criando uma conexão sólida.
+   * **Verificação:**
+        Após a crimpagem, verifique visualmente se os fios estão corretamente alinhados e conectados aos pinos. Use um verificador de cabo ou um testador de cabo para verificar se a conexão está funcionando corretamente. Isso é especialmente importante para garantir que não haja fios cruzados ou mal conectados.
+   * **Repetição do Processo:**
         Repita o mesmo processo no outro lado do cabo, garantindo que a ordem dos fios seja a mesma que você usou no primeiro conector RJ-45.
 
 Lembrando que a ordem dos fios (T568B ou T568A) deve ser consistente em ambos os conectores RJ-45 para que o cabo funcione corretamente em sua rede Ethernet. Além disso, use cabos de boa qualidade e certifique-se de que as ferramentas estejam em boas condições para obter resultados confiáveis.
@@ -510,31 +524,35 @@ https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf
 </table>
 
   
- ## Configuração do telefone IP Khomp IPS 300
+**Configuração do telefone IP Khomp IPS 300**
 
 Para configurar os aparelhos IP precisaremos do seu IP,  usuário e senha. Veja como configurar Telefone IP 300 Khomp
 
 1.Inicialmente restaurar configurações de fábrica:
- * Ligar o telefone à energia e e rede de dados, pressionar a tecla Menu seguindo o procedimento:
- 
-     menu/3.Config.Telefone/2. Configurações Avançadas/1. Avançado/6. Configuração de fábrica/ok  e aguardar
 
-O telefone irá restaurar todas as configurações originais. Ele entrará com DHCP ativado e irá adquirir um IP da rede.
+* Ligar o telefone à energia e e rede de dados, pressionar a tecla Menu seguindo o procedimento:
+ 
+     **menu/3.Config.Telefone/2. Configurações Avançadas/1. Avançado/6. Configuração de fábrica/ok**  e aguardar
+
+* O telefone irá restaurar todas as configurações originais. Ele entrará com DHCP ativado e irá adquirir um IP da rede.
 
 2.Configurar o Telefone no PBX Issabel:
 
-Pode-se configurar o aparelho telefônico pelo teclado do mesmo ou por uma interface web. 
+* Pode-se configurar o aparelho telefônico pelo teclado do mesmo ou por uma interface web. 
 
-Sequencia de passos a serem executados:
+**Sequência de passos à serem executados:**
 
 * Configuarar o wifi do seu celular para a rede do laboratório (DEE-Prediais/prediais123)
 
-* Abrir o nevegador e carregar o endereço do telefone (aparecerá na opção Menu/1. Ver Estado/IP:10.240.240.xx)
+* Abrir o nevegador e carregar o endereço do telefone 
+
+      **(aparecerá na opção Menu/Ver Estado/IP:10.240.240.xx)**
 
 * Aparecerá a imagem abaixo. Prencha com o usuário e senha. 
 
- Usuário root
- Senha root
+      **Usuário:** root
+      
+      **Senha:** root
  
 <table border="0">
 <tbody>
@@ -547,7 +565,7 @@ Sequencia de passos a serem executados:
 </tbody>
 </table>
 
-* Aparecera a tela a seguir. Pressionando o menu "Contas SIP" , preencha como os dados abaixo e clicar no botão "Atualizar".
+* Aparecera a tela a seguir. Pressionando o menu **"Contas SIP"** , preencha como os dados abaixo e clicar no botão **"Atualizar"**.
 
 <table border="0">
 <tbody>
@@ -560,7 +578,7 @@ Sequencia de passos a serem executados:
 </tbody>
 </table>
 
-## Parâmetros de configuração dos telefones IP´s
+**Parâmetros de configuração dos telefones IP´s**
 
 <table border="0">
 <tbody>
@@ -581,11 +599,11 @@ O softphone tem uma interface de uso fácil. Por meio da tela do dispositivo que
 
 O softphone é composto por uma tela com teclado numérico semelhante ao do celular, onde o usuário realiza chamadas como faria em um dispositivo móvel. Além disso, o software geralmente inclui uma lista de contatos, identificador e histórico de chamadas e outros recursos. Para que a ligação tenha uma boa qualidade, é recomendado utilizar o softphone junto com um headset.
 
-## Download do softfone:
+**Download do softfone:**
 
 Vá ao site do zoiper e escolha a versão do software conforme seu sistema operacional e instale em seu celular. Após instalado abra o aplicativo.
 
-https://www.zoiper.com/en/voip-softphone/download/current 
+[https://www.zoiper.com/en/voip-softphone/download/current ]()
 
 <table border="0">
 <tbody>
@@ -683,7 +701,7 @@ Preencha os campos :
 Mantenha os demais campos como estão. esta é a configuração básica para realizar e receber ligações VOIP.
 Pressione o botão "Registrar". Caso as configurações estejam corretas irá aparecer a mensagem : "Status de registro OK". O Softfone estará pronto para uso.
 
-## Montagem dos cabos conexões dos equipamentos
+## 5-Montagem dos cabos conexões dos equipamentos
 
 Após a crimpagem dos conectores e testes de funcionamento dos mesmos, deve-se interligar os equipamentos conforme o diagrama abaixo:
 
@@ -699,7 +717,7 @@ Após a crimpagem dos conectores e testes de funcionamento dos mesmos, deve-se i
 </tbody>
 </table>
 
-## Conexão dos celulares ao WI-FI do Laboratório
+##6-Conexão dos celulares ao WI-FI do Laboratório
 
 Uma vez instalado e configurado o app zoipper, troque a rede de WI-FI do celular para:
 
@@ -709,7 +727,7 @@ Uma vez instalado e configurado o app zoipper, troque a rede de WI-FI do celular
 Abra o app zoipper e faça os testes de conexão.
 
 
-## Realizar os testes do PBX
+##7-Realizar os testes do PBX
 
 Descrever os testes a serem feitos.
 
