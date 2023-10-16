@@ -727,7 +727,11 @@ Uma vez instalado e configurado o app zoipper, troque a rede de WI-FI do celular
 Abra o app zoipper e faça os testes de conexão.
 
 
-## 7-Realizar os testes de funcionamento no PBX
+## 7-Testes de funcionamento no PBX
 
-Descrever os testes a serem feitos.
+1. Discar entre os colegas ramais de telefone ip 4001,4002,4003,4004 e 4005
+1. Discar entre telefones fixos e ramais IP no celular (4010,4011,4012,4013,4014 e 4015)
+1. Discar para um ramal e deixar tocar ( não atender). Logo em seguida ouvir a mensagem deixada na caixa postal.
+1. Realizar uma conferencia de voz entre três ramais.
+1. Redirecionar as chamadas de um ramal para outro ramal.
 
