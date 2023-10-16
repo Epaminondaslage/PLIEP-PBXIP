@@ -2,7 +2,7 @@
  <td style="width: 20%;"><img src="/img/banner.png" width="100%"></td>
 
 **Departamento de Engenharia Elétrica do CEFET-MG Campus NG**
-**Coordenação do Curso Técnico de Eletrotécnica.**
+**Coordenação do Curso Técnico de Eletrotécnica**
 **Laboratório de Instalações Elétricas Prediais - PLIEP**
 
 **Aula prática: Montagem e configuração de uma rede local com telefonesIP,Softfone em celulares e um PBX IP utilizando software de código livre e gratuito.**
@@ -119,7 +119,7 @@ O Issabel é uma escolha popular para empresas que desejam implementar sistemas 
 
  ## PBXIP Issabel está instalado em um servidor Linux no IP 10.240.240.10. Este IP somente é acessível através da rede do Laboratório de Instalações Prediais ou pelo WI-FI DEE-Prediais
  
-# Infraestrutura de Hardware do laboratório
+# Infraestrutura de hardware do laboratório
 
 O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, possui os segintes equipamentos destinados a esta atividade:
 
@@ -579,7 +579,7 @@ O softphone tem uma interface de uso fácil. Por meio da tela do dispositivo que
 
 O softphone é composto por uma tela com teclado numérico semelhante ao do celular, onde o usuário realiza chamadas como faria em um dispositivo móvel. Além disso, o software geralmente inclui uma lista de contatos, identificador e histórico de chamadas e outros recursos. Para que a ligação tenha uma boa qualidade, é recomendado utilizar o softphone junto com um headset.
 
-## Download do Softfone:
+## Download do softfone:
 
 Vá ao site do zoiper e escolha a versão do software conforme seu sistema operacional e instale em seu celular. Após instalado abra o aplicativo.
 
@@ -645,6 +645,7 @@ https://www.zoiper.com/en/voip-softphone/download/current
 </table>
 
 * Escolha o tipo de Conta SIP
+
 <table border="0">
 <tbody>
 <tr>
