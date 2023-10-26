@@ -38,6 +38,16 @@ Os sistemas PBX, são projetados para automatizar e simplificar o gerenciamento 
 
 PBXIP utiliza a automação e a tecnologia IP para otimizar a gestão das chamadas telefônicas em empresas, oferecendo recursos avançados para melhorar a eficiência nas comunicações internas e externas.
 
+**Tipos de PABX*
+
+Atualmente, temos cinco tipos de PABX:
+
+   1. analógico;
+   1. digital;
+   1. híbrido;
+   1. IP;
+   1. virtual ou em nuvem.
+
 **O que é VOIP?**
 
 <table border="0">
