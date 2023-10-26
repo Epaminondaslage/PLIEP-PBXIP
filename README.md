@@ -18,6 +18,14 @@
  
 **O que é um sistema de telefonia PBX IP?**
 
+O que é PBX? 
+
+O termo PBX é Private Branch Exchange ou Troca de Ramais Privados. Na prática, essa tecnologia funciona como uma central telefônica. Por meio de números, disponibilizados por operadoras, as centrais recebem chamadas externas. Além disso, conseguem fazer a comunicação (entre funcionários) por ramais. 
+
+O que é PABX?
+
+A sigla PABX (Private Automatic Branch Exchange), traduzido como Troca Automática de Ramais Privados. O funcionamento dela é praticamente igual ao PBX. A questão é que, neste caso, não é preciso ter um operador para distribuir as chamadas.
+
 A Telefonia IP ou VoIP (Voz sobre IP) é uma tecnologia que permite realizar chamadas telefônicas sobre uma rede de dados IP como se estivesse utilizando a rede STFC (Sistema de Telefonia Fixa Comutada). Esta tecnologia vem se firmando como a que mais faz convergência devido às novas funções trazidas das redes de dados para a rede de telefonia.
 
 O sucesso da implantação da telefonia IP ocorre na maioria dos casos devido ao baixo preço pago nos serviços de ligação de longa distância e por causa das novas funcionalidades para a telefonia, aumentando a produtividade dos funcionários, além de permitir a convergência de serviços de dados, voz, fax e vídeo numa única rede IP. Aplicativos como Whatsapp, Telegram entre outros utilizam esta tecnologia.
@@ -26,7 +34,7 @@ O PBX, ou "Private Branch Exchange", é um sistema de telecomunicações usado e
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/pbx.png" width="50%" /></td>
+<td style="width: 100%;"><img src="./img/pbx.png" width="100%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 1 - PBXIP - Aplicações e usos</td>
@@ -38,7 +46,7 @@ Os sistemas PBX, são projetados para automatizar e simplificar o gerenciamento 
 
 PBXIP utiliza a automação e a tecnologia IP para otimizar a gestão das chamadas telefônicas em empresas, oferecendo recursos avançados para melhorar a eficiência nas comunicações internas e externas.
 
-**Tipos de PABX*
+**Tipos de PBX**
 
 Atualmente, temos cinco tipos de PABX:
 
