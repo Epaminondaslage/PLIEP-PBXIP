@@ -702,7 +702,7 @@ Preencha os campos :
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="./img/congig_zoiper.png" width="30%" /></td>
+<td style="width: 30%;"><img src="./img/config_zoiper.png" width="30%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 26 - Configurações da "Conta SIP" no softfone.</td>
@@ -742,8 +742,10 @@ Abra o app zoipper e faça os testes de conexão.
 ## 7-Testes de funcionamento no PBX
 
 1. Discar entre os colegas ramais de telefone ip 4001,4002,4003,4004 e 4005
-1. Discar entre telefones fixos e ramais IP no celular (4010,4011,4012,4013,4014 e 4015)
+1. Discar entre telefones fixos e ramais IP no celular 4010( para o professor e 4011,4012,4013,4014 e 4015 para os alunos.
 1. Discar para um ramal e deixar tocar ( não atender). Logo em seguida ouvir a mensagem deixada na caixa postal.
 1. Realizar uma conferencia de voz entre três ramais.
 1. Redirecionar as chamadas de um ramal para outro ramal.
-
+1. Bloquear ligações.
+2. Capturar ligações,
+3. Transferir ligações, etc.
