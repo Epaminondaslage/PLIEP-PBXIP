@@ -721,7 +721,7 @@ Após a crimpagem dos conectores e testes de funcionamento dos mesmos, deve-se i
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 120%;"><img src="./img/conexao-de-rede.png" width="30%" /></td>
+<td style="width: 120%;"><img src="./img/conexao-de-rede.png" width="120%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 26 - Montagem dos equipamentos e cabeamento de rede.</td>
