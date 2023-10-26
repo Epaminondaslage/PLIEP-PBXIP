@@ -702,7 +702,7 @@ Preencha os campos :
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="./img/config_zoiper.png" width="30%" /></td>
+<td style="width: 120%;"><img src="./img/config_zoiper.png" width="120%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 26 - Configurações da "Conta SIP" no softfone.</td>
