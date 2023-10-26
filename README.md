@@ -696,7 +696,19 @@ Preencha os campos :
  * Domain:
  * Nome do Usuário:
  * Password:
- * Caller ID: 
+ * Caller ID:
+
+</table>
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 30%;"><img src="./img/congig_zoiper.png" width="30%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 26 - Configurações da "Conta SIP" no softfone.</td>
+</tr>
+</tbody>
+</table>
 
 Mantenha os demais campos como estão. esta é a configuração básica para realizar e receber ligações VOIP.
 Pressione o botão "Registrar". Caso as configurações estejam corretas irá aparecer a mensagem : "Status de registro OK". O Softfone estará pronto para uso.
