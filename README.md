@@ -138,7 +138,7 @@ Issabel é uma plataforma de comunicações de voz e dados, de código aberto, b
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 60%;"><img src="./img/painel issabel.png" width="60%" /></td>
+<td style="width: 80%;"><img src="./img/painel issabel.png" width="80%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 5 - Dashboard do Issabel.</td>
