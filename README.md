@@ -12,7 +12,7 @@
 
 1. Capacitar os alunos a desenvolver habilidades práticas na montagem de cabos UTP-CAT5 com conectores RJ-45 para estabelecer a rede Ethernet, viabilizando a interligação de equipamentos;
 1. Proporcionar conhecimentos para a configuração de telefones IP e softphones para celular, permitindo que os alunos adquiram competências valiosas no campo das comunicações VoIP (Voz sobre IP);
-1. Conhecer o básico da operação e das facilidades o SW livre Asterisk e a interface gráfica do PbxIP Issabel.
+1. Conhecer o básico da operação e das facilidades o SW livre Asterisk e a interface gráfica do PBX IP Issabel.
 
 # Parte teórica
  
