@@ -583,7 +583,7 @@ Para configurar os aparelhos IP precisaremos do seu IP,  usuário e senha. Veja 
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="./img/configtelip.png" width="50%" /></td>
+<td style="width: 100%;"><img src="./img/configtelip.png" width="100%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 18 - Tabela de parâmetros de conta SIP dos telefones IP´s. </td>
@@ -608,7 +608,7 @@ Vá ao site do zoiper e escolha a versão do software conforme seu sistema opera
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="./img/Zoiper.png" width="30%" /></td>
+<td style="width: 100%;"><img src="./img/Zoiper.png" width="100%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 19 - Zoiper- Softfone free para uso não comercial.</td>
