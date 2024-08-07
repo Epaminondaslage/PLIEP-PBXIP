@@ -621,7 +621,7 @@ O softphone é composto por uma tela com teclado numérico semelhante ao do celu
 
 Vá ao site do zoiper e escolha a versão do software conforme seu sistema operacional e instale em seu celular. Após instalado abra o aplicativo.
 
-[https://www.zoiper.com/en/voip-softphone/download/current ]()
+[https://www.zoiper.com/en/voip-softphone/download/current ](https://www.zoiper.com/en/voip-softphone/download/current)
 
 <table border="0">
 <tbody>
