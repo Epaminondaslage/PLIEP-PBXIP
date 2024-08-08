@@ -608,7 +608,16 @@ Para configurar os aparelhos IP precisaremos do seu IP,  usuário e senha. Veja 
 </tr>
 </tbody>
 </table>
-
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src=".telip.jpg" width="100%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 18-a - Tela do telefone acessada pelo navegador do computador. </td>
+</tr>
+</tbody>
+</table>
 ## 4- Softfone Zoiper no celular
 
 Softphone é um software possível fazer chamadas telefônicas pela Internet. Os dispositivos mais comuns para uso do Softphone são: computador, notebook, tablet ou um smartphone, que permite ao usuário efetuar e receber chamadas sem precisar de um telefone convencional.
