@@ -611,7 +611,7 @@ Para configurar os aparelhos IP precisaremos do seu IP,  usuário e senha. Veja 
 <table border="0">
 <tbody>
 <tr>
-<td style="width: 100%;"><img src=".telip.jpg" width="100%" /></td>
+<td style="width: 100%;"><img src="./tela telip.png" width="100%" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">Figura 18-a - Tela do telefone acessada pelo navegador do computador. </td>
