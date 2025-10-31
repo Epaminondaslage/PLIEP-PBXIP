@@ -209,9 +209,9 @@ O Laboratório possui uma LAN e um Wi-Fi isolados da rede do CEFETMG por um fire
 
 # Parte Prática
 
-## 1 e 2 - Grimpar e testar o  conector RJ45 
+## 1 e 2 - Crimpar e testar o  conector RJ45 
 
-[Ver guia de montagem e teste de conector RJ-45](Grimpar-conector-RJ-45.md)
+[Ver guia de montagem e teste de conector RJ-45](Crimpar-conector-RJ-45.md)
 
 
 ## 3- Aparelhos telefonicos IP Khomp IPS 300
