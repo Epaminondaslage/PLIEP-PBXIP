@@ -1,4 +1,7 @@
-<td style="width: 20%;"><img src="/img/banner.png" width="100%"></td>
+<td style="width: 10%;">
+    <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="20%" />
+</td>
+
 
 **Departamento de Engenharia Elétrica do CEFET-MG Campus NG**
 
