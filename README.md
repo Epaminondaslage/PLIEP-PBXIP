@@ -3,21 +3,18 @@
 </td>
 
 
-**Departamento de Engenharia Elétrica do CEFET-MG Campus NG**
+## Departamento de Engenharia Elétrica do CEFET-MG Campus NG
+## Coordenação do Curso Técnico de Eletrotécnica
+## Laboratório de Instalações Elétricas Prediais - PLIEP
+## Aula Prática:** Montagem e configuração de uma rede local com telefonesIP,Softfone em celulares e um PBX IP utilizando software de código livre e gratuito.
 
-**Coordenação do Curso Técnico de Eletrotécnica**
-
-**Laboratório de Instalações Elétricas Prediais - PLIEP**
-
-**Aula Prática:** Montagem e configuração de uma rede local com telefonesIP,Softfone em celulares e um PBX IP utilizando software de código livre e gratuito.
-
-# Objetivos da aula prática
+## Objetivos da aula prática
 
 1. Capacitar os alunos a desenvolver habilidades práticas na montagem de cabos UTP-CAT5 com conectores RJ-45 para estabelecer a rede Ethernet, viabilizando a interligação de equipamentos;
 1. Proporcionar conhecimentos para a configuração de telefones IP e softphones para celular, permitindo que os alunos adquiram competências valiosas no campo das comunicações VoIP (Voz sobre IP);
 1. Conhecer o básico da operação e das facilidades o SW livre Asterisk e a interface gráfica do PBX IP Issabel.
 
-# Parte teórica
+## Parte teórica
  
 **O que é um sistema de telefonia PBX IP?**
 
@@ -153,7 +150,7 @@ O Issabel é uma escolha popular para empresas que desejam implementar sistemas 
 
 **PBXIP Issabel está instalado em um servidor Linux no IP 10.240.240.10. Este IP somente é acessível através da rede do Laboratório de Instalações Prediais ou pelo WI-FI DEE-Prediais**
  
-## Infraestrutura de hardware do laboratório
+### Infraestrutura de hardware do laboratório
 
 O laboratório, fisicamente localizado na sala 203 do prédio 19 campus NG, possui os segintes equipamentos destinados a esta atividade:
 
@@ -217,7 +214,7 @@ O Laboratório possui uma LAN e um Wi-Fi isolados da rede do CEFETMG por um fire
 [Ver guia de montagem e teste de conector RJ-45](Crimpar-conector-RJ-45.md)
 
 
-## 3- Aparelhos telefonicos IP Khomp IPS 300
+### 3- Aparelhos telefonicos IP Khomp IPS 300
 
 https://www.khomp.com/wp-content/uploads/2016/07/datasheet_IPS-300-PT-V1.pdf 
 
@@ -505,7 +502,7 @@ Para configurar os aparelhos IP precisaremos do seu IP,  usuário e senha. Veja 
 </tr>
 </tbody>
 </table>
-## 4- Softfone Zoiper no celular
+### 4- Softfone Zoiper no celular
 
 Softphone é um software possível fazer chamadas telefônicas pela Internet. Os dispositivos mais comuns para uso do Softphone são: computador, notebook, tablet ou um smartphone, que permite ao usuário efetuar e receber chamadas sem precisar de um telefone convencional.
 
@@ -627,7 +624,7 @@ Preencha os campos :
 Mantenha os demais campos como estão. esta é a configuração básica para realizar e receber ligações VOIP.
 **Pressione o botão "Registrar". Caso as configurações estejam corretas irá aparecer a mensagem : "Status de registro OK". O Softfone estará pronto para uso.**
 
-## 5-Montagem dos cabos conexões dos equipamentos
+### 5-Montagem dos cabos conexões dos equipamentos
 
 Após a crimpagem dos conectores e testes de funcionamento dos mesmos, deve-se interligar os equipamentos conforme o diagrama abaixo:
 
@@ -643,7 +640,7 @@ Após a crimpagem dos conectores e testes de funcionamento dos mesmos, deve-se i
 </tbody>
 </table>
 
-## 6-Conexão dos celulares ao WI-FI do Laboratório
+### 6-Conexão dos celulares ao WI-FI do Laboratório
 
 Uma vez instalado e configurado o app zoipper, troque a rede de WI-FI do celular para:
 
@@ -653,7 +650,7 @@ Uma vez instalado e configurado o app zoipper, troque a rede de WI-FI do celular
 Abra o app zoipper e faça os testes de conexão.
 
 
-## 7-Testes de funcionamento no PBX
+### 7-Testes de funcionamento no PBX
 
 1. Discar entre os colegas ramais de telefone ip 4001,4002,4003,4004 e 4005
 1. Discar entre telefones fixos e ramais IP no celular 4010( para o professor e 4011,4012,4013,4014 e 4015 para os alunos.
