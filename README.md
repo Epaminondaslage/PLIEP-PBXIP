@@ -3,12 +3,12 @@
 </td>
 
 
-## Departamento de Engenharia Elétrica do CEFET-MG Campus NG
-## Coordenação do Curso Técnico de Eletrotécnica
-## Laboratório de Instalações Elétricas Prediais - PLIEP
-## Aula Prática: Montagem e configuração de uma rede local com telefonesIP,Softfone em celulares e um PBX IP utilizando software de código livre e gratuito.
+### Departamento de Engenharia Elétrica do CEFET-MG Campus NG
+### Coordenação do Curso Técnico de Eletrotécnica
+### Laboratório de Instalações Elétricas Prediais - PLIEP
+### Aula Prática: Montagem e configuração de uma rede local com telefonesIP,Softfone em celulares e um PBX IP utilizando software de código livre e gratuito.
 
-## Objetivos da aula prática
+## Objetivos
 
 1. Capacitar os alunos a desenvolver habilidades práticas na montagem de cabos UTP-CAT5 com conectores RJ-45 para estabelecer a rede Ethernet, viabilizando a interligação de equipamentos;
 1. Proporcionar conhecimentos para a configuração de telefones IP e softphones para celular, permitindo que os alunos adquiram competências valiosas no campo das comunicações VoIP (Voz sobre IP);
