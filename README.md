@@ -5,7 +5,7 @@
 
 ### Departamento de Engenharia Elétrica do CEFET-MG Campus NG
 ### Coordenação do Curso Técnico de Eletrotécnica
-### Laboratório de Instalações Elétricas Prediais - PLIEP
+### Disciplina: **PLIEP - Prática de Laboratório de Instalações Eletricas Prediais**
 ### Aula Prática: Montagem e configuração de uma rede local com telefonesIP,Softfone em celulares e um PBX IP utilizando software de código livre e gratuito.
 
 ## Objetivos
